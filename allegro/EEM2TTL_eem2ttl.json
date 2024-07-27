@@ -1,0 +1,747 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [
+		{
+			"Name" : "U8",
+			"C_PATH" : "@eem2ttl.top(sch_1):ins224255@\\dosin-801-0093\\.\\dosin-801-0093.normal\\(chips)",
+			"Logical" : "U8",
+			"Physical" : "U9"
+		},
+		{
+			"Name" : "U9",
+			"C_PATH" : "@eem2ttl.top(sch_1):ins212538@pin3boomele.\\pin3boomele.normal\\(chips)",
+			"Logical" : "U9",
+			"Physical" : "U8"
+		}
+	],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "BUFFER_IN1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_in1",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE1:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_IN2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_in2",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE1:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_IN3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_in3",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE1:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_IN4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_in4",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE1:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_IN5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_in5",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE1:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_IN6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_in6",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE1:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_IN7",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_in7",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE1:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_IN8",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_in8",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE1:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_OUT1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_out1",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE2:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_OUT2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_out2",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE2:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_OUT3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_out3",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE2:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_OUT4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_out4",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE2:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_OUT5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_out5",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE2:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_OUT6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_out6",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE2:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_OUT7",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_out7",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE2:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "BUFFER_OUT8",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer_out8",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "SINGLE2:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS1_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds1_p",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS1_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds1_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR1"
+		},
+		{
+			"Name" : "LVDS3_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds3_p",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS3_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds3_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR3"
+		},
+		{
+			"Name" : "LVDS4_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds4_p",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS4_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds4_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR4"
+		},
+		{
+			"Name" : "LVDS5_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds5_p",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS5_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds5_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR5"
+		},
+		{
+			"Name" : "LVDS6_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds6_p",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS6_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds6_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR6"
+		},
+		{
+			"Name" : "LVDS7_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds7_p",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS7_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds7_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR7"
+		},
+		{
+			"Name" : "LVDS8_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds8_p",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS8_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds8_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR8"
+		},
+		{
+			"Name" : "LVDS1_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds1_n",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS1_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds1_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR1"
+		},
+		{
+			"Name" : "LVDS2_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds2_n",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS2_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds2_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR2"
+		},
+		{
+			"Name" : "LVDS3_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds3_n",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS3_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds3_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR3"
+		},
+		{
+			"Name" : "LVDS4_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds4_n",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS4_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds4_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR4"
+		},
+		{
+			"Name" : "LVDS5_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds5_n",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS5_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds5_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR5"
+		},
+		{
+			"Name" : "LVDS6_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds6_n",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS6_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds6_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR6"
+		},
+		{
+			"Name" : "LVDS7_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds7_n",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS7_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds7_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR7"
+		},
+		{
+			"Name" : "LVDS8_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds8_n",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS8_N",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds8_n",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR8"
+		},
+		{
+			"Name" : "LVDS2_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds2_p",
+			"PropName" : "RELATIVE_PROPAGATION_DELAY",
+			"Logical" : null,
+			"Physical" : "LVDS:G:L:S:0 ns:5 %"
+		},
+		{
+			"Name" : "LVDS2_P",
+			"C_PATH" : "@eem2ttl.top(sch_1):lvds2_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DIFFPAIR2"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "U13",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer1@eem2ttl.\\buffer\\(sch_1):ins210954@sn74axch1t45dry2.\\sn74axch1t45dry2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U13"
+		},
+		{
+			"Name" : "U14",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer9@eem2ttl.\\buffer\\(sch_1):ins210954@sn74axch1t45dry2.\\sn74axch1t45dry2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U14"
+		},
+		{
+			"Name" : "U15",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer10@eem2ttl.\\buffer\\(sch_1):ins210954@sn74axch1t45dry2.\\sn74axch1t45dry2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U15"
+		},
+		{
+			"Name" : "U16",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer11@eem2ttl.\\buffer\\(sch_1):ins210954@sn74axch1t45dry2.\\sn74axch1t45dry2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U16"
+		},
+		{
+			"Name" : "U17",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer12@eem2ttl.\\buffer\\(sch_1):ins210954@sn74axch1t45dry2.\\sn74axch1t45dry2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U17"
+		},
+		{
+			"Name" : "U18",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer13@eem2ttl.\\buffer\\(sch_1):ins210954@sn74axch1t45dry2.\\sn74axch1t45dry2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U18"
+		},
+		{
+			"Name" : "U19",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer14@eem2ttl.\\buffer\\(sch_1):ins210954@sn74axch1t45dry2.\\sn74axch1t45dry2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U19"
+		},
+		{
+			"Name" : "U20",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer15@eem2ttl.\\buffer\\(sch_1):ins210954@sn74axch1t45dry2.\\sn74axch1t45dry2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U20"
+		},
+		{
+			"Name" : "U15",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer10@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips)",
+			"Logical" : "U15",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer11@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips)",
+			"Logical" : "U16",
+			"Physical" : null
+		},
+		{
+			"Name" : "U17",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer12@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips)",
+			"Logical" : "U17",
+			"Physical" : null
+		},
+		{
+			"Name" : "U18",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer13@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips)",
+			"Logical" : "U18",
+			"Physical" : null
+		},
+		{
+			"Name" : "U19",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer14@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips)",
+			"Logical" : "U19",
+			"Physical" : null
+		},
+		{
+			"Name" : "U20",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer15@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips)",
+			"Logical" : "U20",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer1@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips)",
+			"Logical" : "U13",
+			"Physical" : null
+		},
+		{
+			"Name" : "U14",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer9@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips)",
+			"Logical" : "U14",
+			"Physical" : null
+		}
+	],
+	"Net" : [],
+	"Connection" : [
+		{
+			"Name" : "U15.2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer10@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U15.1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer10@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCA",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U15.6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer10@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCB",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U15.3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer10@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):A",
+			"Logical" : "BUFFER_IN3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U15.4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer10@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):B",
+			"Logical" : "BUFFER_OUT3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U15.5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer10@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):DIR",
+			"Logical" : "DIR3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer11@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer11@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCA",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer11@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCB",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer11@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):A",
+			"Logical" : "BUFFER_IN4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer11@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):B",
+			"Logical" : "BUFFER_OUT4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer11@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):DIR",
+			"Logical" : "DIR4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U17.2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer12@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U17.1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer12@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCA",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U17.6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer12@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCB",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U17.3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer12@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):A",
+			"Logical" : "BUFFER_IN5",
+			"Physical" : null
+		},
+		{
+			"Name" : "U17.4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer12@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):B",
+			"Logical" : "BUFFER_OUT5",
+			"Physical" : null
+		},
+		{
+			"Name" : "U17.5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer12@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):DIR",
+			"Logical" : "DIR5",
+			"Physical" : null
+		},
+		{
+			"Name" : "U18.2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer13@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U18.1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer13@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCA",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U18.6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer13@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCB",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U18.3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer13@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):A",
+			"Logical" : "BUFFER_IN6",
+			"Physical" : null
+		},
+		{
+			"Name" : "U18.4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer13@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):B",
+			"Logical" : "BUFFER_OUT6",
+			"Physical" : null
+		},
+		{
+			"Name" : "U18.5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer13@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):DIR",
+			"Logical" : "DIR6",
+			"Physical" : null
+		},
+		{
+			"Name" : "U19.2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer14@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U19.1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer14@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCA",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U19.6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer14@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCB",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U19.3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer14@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):A",
+			"Logical" : "BUFFER_IN7",
+			"Physical" : null
+		},
+		{
+			"Name" : "U19.4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer14@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):B",
+			"Logical" : "BUFFER_OUT7",
+			"Physical" : null
+		},
+		{
+			"Name" : "U19.5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer14@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):DIR",
+			"Logical" : "DIR7",
+			"Physical" : null
+		},
+		{
+			"Name" : "U20.2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer15@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U20.1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer15@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCA",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U20.6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer15@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCB",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U20.3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer15@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):A",
+			"Logical" : "BUFFER_IN8",
+			"Physical" : null
+		},
+		{
+			"Name" : "U20.4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer15@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):B",
+			"Logical" : "BUFFER_OUT8",
+			"Physical" : null
+		},
+		{
+			"Name" : "U20.5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer15@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):DIR",
+			"Logical" : "DIR8",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer1@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer1@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCA",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer1@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCB",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer1@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):A",
+			"Logical" : "BUFFER_IN1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer1@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):B",
+			"Logical" : "BUFFER_OUT1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer1@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):DIR",
+			"Logical" : "DIR1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U14.2",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer9@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U14.1",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer9@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCA",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U14.6",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer9@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):VCCB",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U14.3",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer9@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):A",
+			"Logical" : "BUFFER_IN2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U14.4",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer9@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):B",
+			"Logical" : "BUFFER_OUT2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U14.5",
+			"C_PATH" : "@eem2ttl.top(sch_1):buffer9@eem2ttl.\\buffer\\(sch_1):ins213456@sn74lxc1t45dryr.\\sn74lxc1t45dryr.normal\\(chips):DIR",
+			"Logical" : "DIR2",
+			"Physical" : null
+		}
+	]
+}

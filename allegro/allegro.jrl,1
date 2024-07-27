@@ -1,0 +1,300 @@
+\t (00:00:04) allegro 23.1 S003 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Jul 27 12:51:25 2024
+\t (00:00:04)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=21348 CPUs=20
+\t (00:00:04) CmdLine= c:\cadence\orcadx_23.1\tools\bin\allegro.exe -mpssession alexi -proj C:\Jeonghyun\Lab\EEM2TTL3\EEM2TTL.opj C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged eem2ttl
+\d (00:00:07) Design opened: C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd
+\i (00:00:07) trapsize 3979
+\i (00:00:07) trapsize 4074
+\i (00:00:07) trapsize 3979
+\i (00:00:07) trapsize 3620
+\i (00:00:08) trapsize 3620
+\t (00:00:08) > Sending response DoneOpenBoard
+\i (00:00:08) generaledit 
+\t (00:00:08) > DoPullSchematic message received
+\t (00:00:08) > Pulling schematic...
+\t (00:00:08) Starting Cadence Logic Import...
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 3620
+\t (00:00:09) > Sending response DonePullSchematic
+\t (00:00:09) > Schematic pulled successfully
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 17.6695 41.8540
+\i (00:00:10) trapsize 1810
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 17.3074 41.8902
+\i (00:00:10) trapsize 905
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 16.6014 41.9807
+\i (00:00:11) trapsize 453
+\i (00:00:11) roam start
+\i (00:00:11) roam x -16
+\i (00:00:11) roam x -256
+\i (00:00:11) roam y 80
+\i (00:00:11) roam x -224
+\i (00:00:11) roam y 64
+\i (00:00:11) roam x -64
+\i (00:00:11) roam y 32
+\i (00:00:11) roam x -96
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -80
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -32
+\i (00:00:11) roam y 16
+\i (00:00:11) roam end
+\i (00:00:14) setwindow form.find
+\i (00:00:14) FORM find symbols YES 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 12.4917 41.7103
+\i (00:00:17) trapsize 905
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11.3694 44.3171
+\i (00:00:18) trapsize 1810
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11.3693 44.3171
+\i (00:00:18) trapsize 3620
+\i (00:00:19) roam start
+\i (00:00:19) roam x 16
+\i (00:00:19) roam x 192
+\i (00:00:19) roam y -80
+\i (00:00:19) roam x 112
+\i (00:00:19) roam y -48
+\i (00:00:19) roam end
+\i (00:00:20) zoom fit 
+\i (00:00:20) trapsize 3620
+\i (00:00:20) save 
+\i (00:00:22) fillin yes 
+\t (00:00:22) > Sending response DoneOpenBoard
+\i (00:00:22) generaledit 
+\i (00:00:23) setwindow form.find
+\i (00:00:23) FORM find all_off  
+\i (00:00:31) setwindow pcb
+\i (00:00:31) status 
+\i (00:00:31) generaledit 
+\i (00:00:32) setwindow form.status
+\i (00:00:32) FORM status force_update  
+\t (00:00:32) Updating dynamic shape (1 of 12) Gnd, Boundary/Bottom @ (0.0001 99.9999) ...
+\t (00:00:32) Updating dynamic shape (2 of 12) Gnd, Boundary/Top @ (0.0001 99.9999) ...
+\t (00:00:32) Updating dynamic shape (3 of 12) 3V3, Boundary/L2 @ (0.0001 99.9999) ...
+\t (00:00:32) Updating dynamic shape (4 of 12) N208207, Boundary/Top @ (80.0100 96.7740) ...
+\t (00:00:32) Updating dynamic shape (5 of 12) 12V0, Boundary/Top @ (80.7720 99.9999) ...
+\t (00:00:32) Updating dynamic shape (6 of 12) N208059, Boundary/Top @ (77.9780 81.0260) ...
+\t (00:00:32) Updating dynamic shape (7 of 12) N208159, Boundary/Top @ (77.7240 94.7420) ...
+\t (00:00:32) Updating dynamic shape (8 of 12) 3V3, Boundary/Top @ (77.9780 89.4080) ...
+\t (00:00:32) Updating dynamic shape (9 of 12) Gnd, Boundary/L2 @ (0.0001 36.4490) ...
+\t (00:00:32) Updating dynamic shape (10 of 12) 12V0eem, Boundary/L2 @ (62.0776 99.9999) ...
+\t (00:00:32) Updating dynamic shape (11 of 12) 12V0ext, Boundary/L2 @ (83.2358 99.9999) ...
+\t (00:00:32) Updating dynamic shape (12 of 12) Gnd, Boundary/L1 @ (0.0001 99.9999) ...
+\i (00:00:34) FORM status drc_update  
+\t (00:00:34) Running DRC, wait...
+\t (00:00:34) Performing DRC...
+\t (00:00:34) The number of threads for DRC checking is reduced from 20 to the maximum supported (16).
+\t (00:00:34) Multithreaded DRC update (16 threads).
+\t (00:00:34) No DRC errors detected.
+\t (00:00:34) DRC done.
+\i (00:00:37) FORM status done  
+\i (00:00:38) setwindow pcb
+\i (00:00:38) save 
+\i (00:00:38) fillin yes 
+   (00:00:38) Loading signal.cxt 
+\t (00:00:38) > Sending response DoneOpenBoard
+\i (00:00:38) generaledit 
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 78.8550 81.5341
+\i (00:00:39) trapsize 1810
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 78.4568 81.5341
+\i (00:00:39) trapsize 905
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 77.0629 80.5928
+\i (00:00:40) trapsize 1810
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 77.0630 80.5929
+\i (00:00:40) trapsize 3620
+\i (00:00:41) roam start
+\i (00:00:41) roam y 32
+\i (00:00:41) roam y 48
+\i (00:00:41) roam end
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 77.4974 74.7202
+\i (00:00:41) trapsize 7241
+\i (00:00:47) ncdrill customization 
+\i (00:00:47) generaledit 
+\i (00:00:48) setwindow form.nc_drillcustomization
+\i (00:00:48) FORM nc_drillcustomization writefile  
+\i (00:00:51) FORM nc_drillcustomization auto_symbols  
+\i (00:00:51) fillin yes 
+\i (00:00:52) FORM nc_drillcustomization done  
+\i (00:00:53) fillin yes 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) nctape_full 
+\i (00:01:08) setwindow form.nc_drill
+\i (00:01:08) FORM nc_drill execute  
+\w (00:01:08) WARNING(SPMHMF-269): Design contains slot holes that cannot be drilled. They can be processed by NC Route instead.
+\t (00:01:08) Starting Generating NC Drill...
+\i (00:01:10) FORM nc_drill cancel  
+\i (00:01:10) setwindow pcb
+\i (00:01:10) generaledit 
+\i (00:01:15) artwork 
+\i (00:01:16) setwindow form.film_control
+\i (00:01:16) FORM film_control select_all  
+\i (00:01:17) FORM film_control create  
+\t (00:01:17) Checking db records
+\t (00:01:17)     checking for orphans...
+\t (00:01:17)     Checked  28 percent
+\t (00:01:17)     Checked  57 percent
+\t (00:01:17)     Checked  86 percent
+\t (00:01:17)     Checked 100 percent
+\t (00:01:17) Done dbdoctor.
+\t (00:01:17) Starting Create artwork films...
+\w (00:01:17) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:01:18) Artwork generated with warnings.
+\i (00:01:27) setwindow text
+\i (00:01:27) close
+\i (00:01:28) setwindow form.film_control
+\i (00:01:28) FORM film_control cancel  
+\i (00:01:28) setwindow pcb
+\i (00:01:28) generaledit 
+\i (00:01:29) pick grid 133.5420 89.2021
+\t (00:01:29) last pick:  133.6040 89.1540
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out 130.9353 84.5679
+\i (00:01:29) trapsize 14482
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 155.4912 96.8775
+\i (00:01:31) trapsize 7241
+\i (00:01:43) ncdrill legend 
+   (00:01:43) Loading mfg.cxt 
+\i (00:01:45) setwindow form.nc_drilllegend
+\i (00:01:45) FORM nc_drilllegend done  
+\i (00:01:46) setwindow pcb
+\i (00:01:46) pick grid -27.1247 -6.5227
+\t (00:01:46) last pick:  -27.1780 -6.6040
+\w (00:01:46) WARNING(SPMHSK-25): Design extents not sufficient, select origin again.
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out -16.5529 8.8280
+\i (00:01:47) trapsize 14482
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out -131.0699 -49.7267
+\i (00:01:47) trapsize 16233
+\i (00:01:48) pick grid -97.4145 -9.0903
+\t (00:01:48) last pick:  -97.5360 -9.1440
+\t (00:01:48) NC Drill Legend generation successful
+\i (00:01:48) generaledit 
+\i (00:01:48) prepopup -82.8052 53.8918
+\i (00:01:49) pick grid -49.3663 87.3307
+\t (00:01:49) last pick:  -49.2760 87.3760
+\i (00:01:52) zoom in 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom in 238.2736 37.3346
+\i (00:01:52) trapsize 8116
+\i (00:01:53) roam start
+\i (00:01:53) roam x -16
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -128
+\i (00:01:53) roam y -128
+\i (00:01:53) roam x -64
+\i (00:01:53) roam y -64
+\i (00:01:53) roam x -32
+\i (00:01:53) roam y -32
+\i (00:01:53) roam x -48
+\i (00:01:53) roam y -32
+\i (00:01:53) roam x -48
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -48
+\i (00:01:53) roam y -16
+\i (00:01:53) roam end
+\i (00:01:58) nctape_full 
+\i (00:01:59) setwindow form.nc_drill
+\i (00:01:59) FORM nc_drill execute  
+\w (00:01:59) WARNING(SPMHMF-269): Design contains slot holes that cannot be drilled. They can be processed by NC Route instead.
+\t (00:01:59) Starting Generating NC Drill...
+\i (00:02:01) FORM nc_drill cancel  
+\i (00:02:01) setwindow pcb
+\i (00:02:01) generaledit 
+\i (00:02:04) artwork 
+\i (00:02:06) setwindow form.film_control
+\i (00:02:06) FORM film_control select_all  
+\i (00:02:07) FORM film_control create  
+\t (00:02:07) Checking db records
+\t (00:02:07)     checking for orphans...
+\t (00:02:07) Done dbdoctor.
+\e (00:02:07) Database has errors; artwork generation canceled.  Please run dbdoctor.
+\i (00:02:08) fillin confirm
+\i (00:02:09) FORM film_control cancel  
+\i (00:02:09) setwindow pcb
+\i (00:02:09) generaledit 
+\i (00:02:13) dbdoctor 
+\i (00:02:13) setwindow form.dbdoctor_allegro
+\i (00:02:13) FORM dbdoctor_allegro execute  
+\t (00:02:13) Dbdoctor in progress - wait...
+\t (00:02:13) Checking db records
+\t (00:02:13)     checking for orphans...
+\t (00:02:13) Done dbdoctor.
+\t (00:02:13) Checking db records
+\t (00:02:13)     checking for orphans...
+\t (00:02:13)     Checked  27 percent
+\t (00:02:13)     Checked  54 percent
+\t (00:02:13)     Checked  82 percent
+\t (00:02:13)     Checked 100 percent
+\w (00:02:13) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:02:13) Done dbdoctor.
+\t (00:02:13) Dbdoctor completed.
+\i (00:02:15) setwindow text
+\i (00:02:15) close
+\i (00:02:15) setwindow form.dbdoctor_allegro
+\i (00:02:15) FORM dbdoctor_allegro close  
+\i (00:02:15) setwindow pcb
+\i (00:02:15) generaledit 
+\i (00:02:17) artwork 
+\i (00:02:19) setwindow form.film_control
+\i (00:02:19) FORM film_control select_all  
+\i (00:02:19) FORM film_control create  
+\t (00:02:19) Checking db records
+\t (00:02:19)     checking for orphans...
+\t (00:02:19)     Checked  27 percent
+\t (00:02:19)     Checked  54 percent
+\t (00:02:19)     Checked  81 percent
+\t (00:02:19)     Checked 100 percent
+\w (00:02:19) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:02:19) Done dbdoctor.
+\t (00:02:19) Starting Create artwork films...
+\w (00:02:19) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:02:20) Artwork generated with warnings.
+\i (00:02:21) setwindow text
+\i (00:02:21) close
+\i (00:02:22) setwindow form.film_control
+\i (00:02:22) FORM film_control cancel  
+\i (00:02:22) setwindow pcb
+\i (00:02:22) generaledit 
+\i (00:03:28) plctxt out 
+\i (00:03:30) setwindow form.plctxt
+\i (00:03:30) FORM plctxt execute  
+\t (00:03:30) Starting Place symbols by text file...
+\i (00:03:32) setwindow pcb
+\i (00:03:32) exit 
+\e (00:03:32) Do you want to save the changes you made to C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd?
+\i (00:03:33) fillin yes 
+\t (00:03:33)     Journal end - Sat Jul 27 12:54:55 2024

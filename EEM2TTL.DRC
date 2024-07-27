@@ -1,0 +1,190 @@
+Date and Time : 07/24/24 12:52:09
+
+--------------------------------------------------
+Checking Schematic: TOP
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1608): Net has no driving source LVDS7_P 
+                    TOP, EEM  (4.10, 3.40) 
+WARNING(ORCAP-1608): Net has no driving source LVDS4_N 
+                    TOP, EEM  (4.10, 2.60) 
+WARNING(ORCAP-1608): Net has no driving source LVDS1_N 
+                    TOP, EEM  (4.10, 1.70) 
+WARNING(ORCAP-1608): Net has no driving source LVDS3_N 
+                    TOP, EEM  (4.10, 2.30) 
+WARNING(ORCAP-1608): Net has no driving source LVDS2_P 
+                    TOP, EEM  (4.10, 1.90) 
+WARNING(ORCAP-1608): Net has no driving source LVDS7_N 
+                    TOP, EEM  (4.10, 3.50) 
+WARNING(ORCAP-1608): Net has no driving source LVDS5_N 
+                    TOP, EEM  (4.10, 2.90) 
+WARNING(ORCAP-1608): Net has no driving source LVDS6_P 
+                    TOP, EEM  (4.10, 3.10) 
+WARNING(ORCAP-1608): Net has no driving source LVDS5_P 
+                    TOP, EEM  (4.10, 2.80) 
+WARNING(ORCAP-1608): Net has no driving source LVDS1_P 
+                    TOP, EEM  (4.10, 1.60) 
+WARNING(ORCAP-1608): Net has no driving source LVDS8_N 
+                    TOP, EEM  (4.10, 3.80) 
+WARNING(ORCAP-1608): Net has no driving source LVDS6_N 
+                    TOP, EEM  (4.10, 3.20) 
+WARNING(ORCAP-1608): Net has no driving source LVDS3_P 
+                    TOP, EEM  (4.10, 2.20) 
+WARNING(ORCAP-1608): Net has no driving source LVDS4_P 
+                    TOP, EEM  (4.10, 2.50) 
+WARNING(ORCAP-1608): Net has no driving source LVDS8_P 
+                    TOP, EEM  (4.10, 3.70) 
+WARNING(ORCAP-1608): Net has no driving source LVDS2_N 
+                    TOP, EEM  (4.10, 2.00) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: SWITCH
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: IO
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict LVDS_2_N  Input Port Connected to Bidirectional
+                    IO, PAGE1  (1.00, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,2B  Bidirectional Connected to Input Port
+                    IO, PAGE1  (3.60, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict LVDS_3_N  Input Port Connected to Bidirectional
+                    IO, PAGE1  (1.00, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,3B  Bidirectional Connected to Input Port
+                    IO, PAGE1  (3.60, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict LVDS_4_N  Input Port Connected to Bidirectional
+                    IO, PAGE1  (1.00, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,4B  Bidirectional Connected to Input Port
+                    IO, PAGE1  (3.60, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict LVDS_1_N  Input Port Connected to Bidirectional
+                    IO, PAGE1  (1.00, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,1B  Bidirectional Connected to Input Port
+                    IO, PAGE1  (3.60, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict LVDS_4_P  Input Port Connected to Bidirectional
+                    IO, PAGE1  (1.00, 3.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,4A  Bidirectional Connected to Input Port
+                    IO, PAGE1  (3.60, 3.70) 
+WARNING(ORCAP-1829): Possible pin type conflict LVDS_3_P  Input Port Connected to Bidirectional
+                    IO, PAGE1  (1.00, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,3A  Bidirectional Connected to Input Port
+                    IO, PAGE1  (3.60, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict GND  Power Connected to Bidirectional
+                    IO, PAGE1  (3.40, 6.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 4.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 5.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 5.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 5.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 5.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 5.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Power Connected to Bidirectional
+                    IO, PAGE1  (5.00, 5.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,EP  Bidirectional Connected to Power
+                    IO, PAGE1  (3.60, 4.00) 
+WARNING(ORCAP-1829): Possible pin type conflict LVDS_1_P  Input Port Connected to Bidirectional
+                    IO, PAGE1  (1.00, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,1A  Bidirectional Connected to Input Port
+                    IO, PAGE1  (3.60, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict LVDS_2_P  Input Port Connected to Bidirectional
+                    IO, PAGE1  (1.00, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,2A  Bidirectional Connected to Input Port
+                    IO, PAGE1  (3.60, 3.10) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: BUFFER
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: TOP
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Schematic: SWITCH
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Schematic: IO
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Schematic: BUFFER
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: EEM2TTL 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

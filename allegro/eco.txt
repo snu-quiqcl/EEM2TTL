@@ -1,0 +1,98 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd                               |
+|                                                    Sat Jul 27 12:51:29 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  12V0EEM      pins MOVED FROM this net (to net name listed on right)
+                                 U8.3            76.1600 15.2400
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  12V0EXT      pins MOVED FROM this net (to net name listed on right)
+                                 U8.1            81.2900 15.2400
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  12V0         pins MOVED FROM this net (to net name listed on right)
+                                 U8.2            78.7400 15.2400
+                                                                    BUFFER_OUT5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT5  pins MOVED FROM this net (to net name listed on right)
+                                 U9.2            82.0420 98.0440
+                                                                           12V0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 U9.1            84.5820 98.0440
+                                                                        12V0EXT
+                                 U9.3            79.5020 98.0440
+                                                                        12V0EEM
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd                               |
+|                                                    Sat Jul 27 12:51:29 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd                               |
+|                                                    Sat Jul 27 12:51:29 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U13                 SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR 38.6080 42.9260 SN74AXCH1T45DRY2_SN74AXCH1T45DRY2_SN74LXC1T45DRYR
+ U14                 SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR 33.5280 42.9260 SN74AXCH1T45DRY2_SN74AXCH1T45DRY2_SN74LXC1T45DRYR
+ U15                 SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR 15.7480 42.9260 SN74AXCH1T45DRY2_SN74AXCH1T45DRY2_SN74LXC1T45DRYR
+ U16                 SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR 10.6680 42.9260 SN74AXCH1T45DRY2_SN74AXCH1T45DRY2_SN74LXC1T45DRYR
+ U17                 SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR 89.4080 42.9260 SN74AXCH1T45DRY2_SN74AXCH1T45DRY2_SN74LXC1T45DRYR
+ U18                 SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR 84.3280 42.9260 SN74AXCH1T45DRY2_SN74AXCH1T45DRY2_SN74LXC1T45DRYR
+ U19                 SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR 66.5480 42.9260 SN74AXCH1T45DRY2_SN74AXCH1T45DRY2_SN74LXC1T45DRYR
+ U20                 SN74LXC1T45DRYR_SN74LXC1T45DRYR_SN74LXC1T45DRYR 61.4680 42.9260 SN74AXCH1T45DRY2_SN74AXCH1T45DRY2_SN74LXC1T45DRYR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd                               |
+|                                                    Sat Jul 27 12:51:29 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U13.6          38.6080 42.9260 PRIM_FILE      .\pstchip.dat
+ U13.6          38.6080 42.9260 XY             (220,200)
+ U14.6          33.5280 42.9260 PRIM_FILE      .\pstchip.dat
+ U14.6          33.5280 42.9260 XY             (220,200)
+ U15.6          15.7480 42.9260 PRIM_FILE      .\pstchip.dat
+ U15.6          15.7480 42.9260 XY             (220,200)
+ U16.6          10.6680 42.9260 PRIM_FILE      .\pstchip.dat
+ U16.6          10.6680 42.9260 XY             (220,200)
+ U17.6          89.4080 42.9260 PRIM_FILE      .\pstchip.dat
+ U17.6          89.4080 42.9260 XY             (220,200)
+ U18.6          84.3280 42.9260 PRIM_FILE      .\pstchip.dat
+ U18.6          84.3280 42.9260 XY             (220,200)
+ U19.6          66.5480 42.9260 PRIM_FILE      .\pstchip.dat
+ U19.6          66.5480 42.9260 XY             (220,200)
+ U20.6          61.4680 42.9260 PRIM_FILE      .\pstchip.dat
+ U20.6          61.4680 42.9260 XY             (220,200)
+|------------------------------------------------------------------------------|
+|       Nets changed          :       6                                        |
+|       Comp definitions added:       1                                        |
+|       Components changed    :       8                                        |
+|       Slot property added   :      16                                        |
+|                                                                              |
+|   Total ECO changes reported:      31                                        |
+|------------------------------------------------------------------------------|

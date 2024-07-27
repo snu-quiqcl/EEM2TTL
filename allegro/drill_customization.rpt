@@ -1,0 +1,15 @@
+Drill Customization Report
+C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd
+Sat Jul 27 12:52:10 2024
+
+#,,Type,Size X,Size Y,ToolSize,+ Tolerance,- Tolerance,Symbol Figure,Symbol Characters,Symbol Size X,Symbol Size Y,Plating,Non-standard Drill,Quantity
+1,,Circle Drill,0.2540,,,0.0762,0.0762,Cross,,0.2540,0.2540,Plated,,1467
+2,,Circle Drill,0.9000,,,0.0000,0.0000,Square,,0.9000,0.9000,Plated,,16
+3,,Circle Drill,1.0000,,,0.0000,0.0000,Hexagon X,,1.0000,1.0000,Plated,,16
+4,,Circle Drill,1.0200,,,0.0000,0.0000,Hexagon Y,,1.0200,1.0200,Plated,,52
+5,,Circle Drill,1.0200,,,0.0000,0.0000,Octagon,,1.0200,1.0200,Plated,,26
+6,,Circle Drill,1.0998,,,0.0000,0.0000,Diamond,,1.0998,1.0998,Plated,,30
+7,,Circle Drill,2.0000,,,0.0000,0.0000,Triangle,,2.0000,2.0000,Plated,,8
+8,,Circle Drill,3.2000,,,0.0000,0.0000,Oblong X,,3.2000,2.4000,Plated,,4
+9,,Oval Slot,0.8000,3.8000,,0.0000,0.0000,Oblong Y,OA,0.8000,3.8000,Plated,,2
+10,,Oval Slot,3.3000,0.8000,,0.0000,0.0000,Oblong X,OB,3.3000,0.8000,Plated,,1

@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : eem2ttl.brd                                   )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Sat Jul 27 12:53:35 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in ATTRIBUTE 
+  POINTER TO ATTRIBUTE INVALID
+   Error was fixed, object was deleted.
+
+WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+
+1 warnings, 1 errors detected, 1 errors  fixed.

@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : eem2ttl.brd                                   )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Sat Jul 27 12:39:33 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'c:/cadence/orcadx_23.1/share/pcb/text/nclegend/default-mm.dlt' ...
+WARNING(SPMHSK-47): Column type 'HoleSize' does not exist.
+WARNING(SPMHSK-47): Column type 'PlateStatus' does not exist.
+End of drill legend template file processing.
+
+Begin processing drill holes.
+Warning : Hole 1.0200-0.0000-C-M0-P-0.0000-0.0000-0.0000-0.0000- uses multiple drill figures.
+End processing drill holes.

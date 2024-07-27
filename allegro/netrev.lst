@@ -1,0 +1,88 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : eem2ttl.brd                                   )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Sat Jul 27 12:51:29 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\Jeonghyun\Lab\EEM2TTL3\allegro'
+Design Directory:            'C:/Jeonghyun/Lab/EEM2TTL3/allegro'
+Old design name:             'C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd'
+New design name:             'C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd'
+
+CmdLine: netrev -y 1 -i C:\Jeonghyun\Lab\EEM2TTL3\allegro -q netrev_constraint_report.xml C:/Jeonghyun/Lab/EEM2TTL3/allegro/#Taaaaai21348.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Jeonghyun/Lab/EEM2TTL3/allegro/pstchip.dat 
+   Finished reading C:/Jeonghyun/Lab/EEM2TTL3/allegro/pstchip.dat (00:00:00.01)
+Starting to read C:/Jeonghyun/Lab/EEM2TTL3/allegro/pstxprt.dat 
+   Finished reading C:/Jeonghyun/Lab/EEM2TTL3/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Jeonghyun/Lab/EEM2TTL3/allegro/pstxnet.dat 
+   Finished reading C:/Jeonghyun/Lab/EEM2TTL3/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/orcadx_23.1/share/orApps/OrCaptureApp/../../../share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/SPB_DATA/cdssetup/OrCAD_Capture/23.1.0/downloaded_parts/allegropcb 
+           C:/Cadence/OrCADX_23.1/share/pcb/pcb_lib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           C:/Jeonghyun/Lab/AD9910_Enclosure/ProfilePCB 
+           C:/SPB_DATA/cdssetup/OrCAD_Capture/23.1.0/downloaded_parts/allegropcb 
+           C:/Cadence/OrCADX_23.1/share/pcb/pcb_lib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 27 12:51:29 2024
+   DESIGN NAME : 'EEM2TTL'
+   PACKAGING ON Mar  6 2024 20:40:29
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:54
+elapsed time  0:00:01
+

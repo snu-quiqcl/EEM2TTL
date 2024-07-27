@@ -1,0 +1,62 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : eem2ttl.brd                                   )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Sat Jul 27 12:39:50 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-365): This design contains 3 slot holes that cannot be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+ Drill files being output to directory 'C:/Jeonghyun/Lab/EEM2TTL2/allegro' ...
+
+
+
+     'eem2ttl-1-4.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.2540    0.0762/  0.0762      PLATED       1415
+            2.   0.9000    0.0000/  0.0000      PLATED         16
+            3.   1.0000    0.0000/  0.0000      PLATED         16
+            4.   1.0200    0.0000/  0.0000      PLATED         78
+            5.   1.0998    0.0000/  0.0000      PLATED         30
+            6.   2.0000    0.0000/  0.0000      PLATED          8
+            7.   3.2000    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                       1567
+
+     ---- Total head travel:              29.44 feet (8.97 meters)
+

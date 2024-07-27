@@ -1,0 +1,335 @@
+(ExpressProject "EEM2TTL"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 S003 (4178961)  [3/6/2024]-[07/27/24]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\ap70t03gh-vb.olb"
+        (Type "Schematic Library"))
+      (File ".\sn74axch1t45dry2.olb"
+        (Type "Schematic Library"))
+      (File ".\chs-08ta1.olb"
+        (Type "Schematic Library"))
+      (File ".\lh32k039f.olb"
+        (Type "Schematic Library"))
+      (File ".\pin3boomele.olb"
+        (Type "Schematic Library"))
+      (File ".\mwsa0603s-3r3mt.olb"
+        (Type "Schematic Library"))
+      (File ".\dosin-801-0093.olb"
+        (Type "Schematic Library"))
+      (File ".\n2530-6002-rb_3m.olb"
+        (Type "Schematic Library"))
+      (File ".\arg06btc49r9.olb"
+        (Type "Schematic Library"))
+      (File ".\m3mechhole.olb"
+        (Type "Schematic Library"))
+      (File ".\sn74lxc1t45dryr.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\eem2ttl.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (RootChangedForceReNetlist "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "TRUE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "FALSE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "FALSE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "FALSE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "FALSE")
+    (DRC_Check_Missing_Pin_Numbers_Online "FALSE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "TRUE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "C:\JEONGHYUN\LAB\EEM2TTL2\EEM2TTL.DRC")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "TRUE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\eem2ttl.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Backannotation_TAB "0")
+    ("Allegro Backannotation Run Genfeed" "TRUE")
+    ("Allegro Backannotation Board File" ".\allegro\eem2ttl.brd")
+    ("Allegro Backannotation Netlist Directory" "allegro")
+    ("Allegro Backannotation Output File" "allegro\EEM2TTL.swp")
+    ("Allegro Backannotation Update Schematic" "TRUE")
+    ("Allegro Backannotation View Output" "FALSE")
+    ("Allegro Setup Output Warnings" "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File "C:\JEONGHYUN\LAB\EEM2TTL2\EEM2TTL.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Part Number}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File "C:\JEONGHYUN\LAB\EEM2TTL2\EEM2TTL.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\eem2ttl.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\eem2ttl.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\eem2ttl.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\allegro\pinview.dat"
+      (Type "Report")
+      (DisplayName "pinView.dat"))
+    (File ".\allegro\netview.dat"
+      (Type "Report")
+      (DisplayName "netView.dat"))
+    (File ".\allegro\funcview.dat"
+      (Type "Report")
+      (DisplayName "funcView.dat"))
+    (File ".\allegro\compview.dat"
+      (Type "Report")
+      (DisplayName "compView.dat"))
+    (File ".\eem2ttl.bom"
+      (Type "Report"))
+    (File "..\eem2ttl2\eem2ttl.bom"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "C:\Jeonghyun\Lab\EEM2TTL3\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "C:\Jeonghyun\Lab\EEM2TTL3\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "C:\Jeonghyun\Lab\EEM2TTL3\allegro\eco.txt"))
+    (File ".\allegro\swp.log"
+      (Type "Log File")
+      (LogFile "C:\JEONGHYUN\LAB\EEM2TTL2\allegro\swp.log"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile "C:\Jeonghyun\Lab\EEM2TTL3\allegro\genfeed.log")))
+  (PartMRUSelector
+    (SN74LXC1T45DRYR
+      (FullPartName "SN74LXC1T45DRYR.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL3\SN74LXC1T45DRYR.OLB")
+      (DeviceIndex "0"))
+    (M3MECHHOLE
+      (FullPartName "M3MECHHOLE.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\M3MECHHOLE.OLB")
+      (DeviceIndex "0"))
+    (AC1210FR-0749R9L
+      (FullPartName "AC1210FR-0749R9L.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\23.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1721799020\AC1210FR-0749R9L.OLB")
+      (DeviceIndex "0"))
+    (ARG06BTC49R9
+      (FullPartName "ARG06BTC49R9.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\ARG06BTC49R9.OLB")
+      (DeviceIndex "0"))
+    (DOSIN-801-0093
+      (FullPartName "DOSIN-801-0093.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\DOSIN-801-0093.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (N2530-6002-RB_3M
+      (FullPartName "N2530-6002-RB_3M.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\N2530-6002-RB_3M.OLB")
+      (DeviceIndex "0"))
+    (DC-005-20A
+      (FullPartName "DC-005-20A.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\23.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1721723445\DC-005-20A\CAPTURE\DC-005-20A.OLB")
+      (DeviceIndex "0"))
+    (MWSA0603S-3R3MT
+      (FullPartName "MWSA0603S-3R3MT.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\MWSA0603S-3R3MT.OLB")
+      (DeviceIndex "0"))
+    (CL31A106KBHNNNE
+      (FullPartName "CL31A106KBHNNNE.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\23.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1721712225\CL31A106KBHNNNE.OLB")
+      (DeviceIndex "0"))
+    (PIN3BOOMELE
+      (FullPartName "PIN3BOOMELE.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\PIN3BOOMELE.OLB")
+      (DeviceIndex "0"))
+    (ERJ2RKF1000X
+      (FullPartName "ERJ2RKF1000X.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\23.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1721708519\ERJ2RKF1000X.OLB")
+      (DeviceIndex "0"))
+    (LH32K039F
+      (FullPartName "LH32K039F.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\LH32K039F.OLB")
+      (DeviceIndex "0"))
+    (ERJ2RKF49R9X
+      (FullPartName "ERJ2RKF49R9X.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\23.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1721701364\ERJ2RKF49R9X.OLB")
+      (DeviceIndex "0"))
+    (AP70T03GH-VB
+      (FullPartName "AP70T03GH-VB.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\AP70T03GH-VB.OLB")
+      (DeviceIndex "0"))
+    (SN74AXCH1T45DRY2
+      (FullPartName "SN74AXCH1T45DRY2.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\EEM2TTL2\SN74AXCH1T45DRY2.OLB")
+      (DeviceIndex "0"))
+    (SN74LVC245ADWR
+      (FullPartName "SN74LVC245ADWR.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\23.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1721698301\SN74LVC245ADWR.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (SN65MLVD040RGZT
+      (FullPartName "SN65MLVD040RGZT.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\23.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1719981378\SN65MLVD040RGZT.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "alexi")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\Jeonghyun\Lab\EEM2TTL3\eem2ttl.dsn")
+      (Path "Design Resources" "C:\Jeonghyun\Lab\EEM2TTL3\eem2ttl.dsn" "BUFFER")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\Jeonghyun\Lab\EEM2TTL3\sn74axch1t45dry2.olb")
+      (Path "Design Resources" "Library"
+         "C:\Jeonghyun\Lab\EEM2TTL3\sn74lxc1t45dryr.olb")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources" "C:\Jeonghyun\Lab\EEM2TTL3\eem2ttl.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 388 0 643"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 956 24 661"))
+      (Path "C:\JEONGHYUN\LAB\EEM2TTL3\SN74LXC1T45DRYR.OLB")
+      (Package "SN74LXC1T45DRYR")
+      (PartType "1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 956 24 661")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/BUFFER1"))
+      (Path "C:\JEONGHYUN\LAB\EEM2TTL3\EEM2TTL.DSN")
+      (Schematic "BUFFER")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 956 24 661")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\JEONGHYUN\LAB\EEM2TTL3\EEM2TTL.DSN")
+      (Schematic "TOP")
+      (Page "MAIN")))
+  (ISPCBBASICLICENSE "false"))

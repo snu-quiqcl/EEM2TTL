@@ -1,0 +1,16 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : eem2ttl.brd                                   )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Sat Jul 27 12:53:28 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in ATTRIBUTE 
+  POINTER TO ATTRIBUTE INVALID
+
+0 warnings, 1 errors detected, 0 errors could be fixed.

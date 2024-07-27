@@ -1,0 +1,75 @@
+A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
+J!C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd!Sat Jul 27 12:51:14 2024!-250.0000!-200.0000!283.4000!231.8000!0.0001!millimeters!EEM2TTL!28.800000 mil!4!UP TO DATE!
+S!N231040!@eem2ttl.top(sch_1):n231040!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N231044!@eem2ttl.top(sch_1):n231044!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N230890!@eem2ttl.top(sch_1):n230890!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N230894!@eem2ttl.top(sch_1):n230894!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N230742!@eem2ttl.top(sch_1):n230742!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N230746!@eem2ttl.top(sch_1):n230746!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N230600!@eem2ttl.top(sch_1):n230600!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N230596!@eem2ttl.top(sch_1):n230596!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!FSEN6!@eem2ttl.top(sch_1):fsen6!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!FSEN5!@eem2ttl.top(sch_1):fsen5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!FSEN4!@eem2ttl.top(sch_1):fsen4!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!FSEN3!@eem2ttl.top(sch_1):fsen3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!FSEN2!@eem2ttl.top(sch_1):fsen2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!FSEN1!@eem2ttl.top(sch_1):fsen1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DIR8!@eem2ttl.top(sch_1):dir8!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DIR7!@eem2ttl.top(sch_1):dir7!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DIR6!@eem2ttl.top(sch_1):dir6!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DIR5!@eem2ttl.top(sch_1):dir5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DIR4!@eem2ttl.top(sch_1):dir4!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DIR3!@eem2ttl.top(sch_1):dir3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DIR2!@eem2ttl.top(sch_1):dir2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!DIR1!@eem2ttl.top(sch_1):dir1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS2_P!@eem2ttl.top(sch_1):lvds2_p!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR2!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS8_N!@eem2ttl.top(sch_1):lvds8_n!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR8!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS7_N!@eem2ttl.top(sch_1):lvds7_n!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR7!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS6_N!@eem2ttl.top(sch_1):lvds6_n!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR6!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS5_N!@eem2ttl.top(sch_1):lvds5_n!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR5!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS4_N!@eem2ttl.top(sch_1):lvds4_n!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR4!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS3_N!@eem2ttl.top(sch_1):lvds3_n!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR3!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS2_N!@eem2ttl.top(sch_1):lvds2_n!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR2!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS1_N!@eem2ttl.top(sch_1):lvds1_n!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR1!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS8_P!@eem2ttl.top(sch_1):lvds8_p!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR8!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS7_P!@eem2ttl.top(sch_1):lvds7_p!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR7!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS6_P!@eem2ttl.top(sch_1):lvds6_p!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR6!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS5_P!@eem2ttl.top(sch_1):lvds5_p!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR5!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS4_P!@eem2ttl.top(sch_1):lvds4_p!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR4!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS3_P!@eem2ttl.top(sch_1):lvds3_p!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR3!!!!!!!!!!!!!!!!!!!!!!!!!
+S!LVDS1_P!@eem2ttl.top(sch_1):lvds1_p!!!LVDS:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!DIFFPAIR1!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_OUT8!@eem2ttl.top(sch_1):buffer_out8!!!SINGLE2:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_OUT7!@eem2ttl.top(sch_1):buffer_out7!!!SINGLE2:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_OUT6!@eem2ttl.top(sch_1):buffer_out6!!!SINGLE2:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_OUT5!@eem2ttl.top(sch_1):buffer_out5!!!SINGLE2:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_OUT4!@eem2ttl.top(sch_1):buffer_out4!!!SINGLE2:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_OUT3!@eem2ttl.top(sch_1):buffer_out3!!!SINGLE2:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_OUT2!@eem2ttl.top(sch_1):buffer_out2!!!SINGLE2:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_OUT1!@eem2ttl.top(sch_1):buffer_out1!!!SINGLE2:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N212931!@eem2ttl.top(sch_1):n212931!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_IN8!@eem2ttl.top(sch_1):buffer_in8!!!SINGLE1:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_IN7!@eem2ttl.top(sch_1):buffer_in7!!!SINGLE1:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_IN6!@eem2ttl.top(sch_1):buffer_in6!!!SINGLE1:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_IN5!@eem2ttl.top(sch_1):buffer_in5!!!SINGLE1:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!12V0EEM!@eem2ttl.top(sch_1):\12v0eem\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!12V0EXT!@eem2ttl.top(sch_1):\12v0ext\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_IN4!@eem2ttl.top(sch_1):buffer_in4!!!SINGLE1:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_IN3!@eem2ttl.top(sch_1):buffer_in3!!!SINGLE1:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_IN2!@eem2ttl.top(sch_1):buffer_in2!!!SINGLE1:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!BUFFER_IN1!@eem2ttl.top(sch_1):buffer_in1!!!SINGLE1:G:L:S:0 ns:5 %!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N208207!@eem2ttl.top(sch_1):n208207!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N208159!@eem2ttl.top(sch_1):n208159!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N208059!@eem2ttl.top(sch_1):n208059!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!12V0!@eem2ttl.top(sch_1):\12v0\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!3V3!@eem2ttl.top(sch_1):\3v3\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!GND!@eem2ttl.top(sch_1):gnd!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TERM8!@eem2ttl.top(sch_1):term8!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TERM7!@eem2ttl.top(sch_1):term7!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TERM6!@eem2ttl.top(sch_1):term6!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TERM5!@eem2ttl.top(sch_1):term5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TERM4!@eem2ttl.top(sch_1):term4!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TERM3!@eem2ttl.top(sch_1):term3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TERM2!@eem2ttl.top(sch_1):term2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!TERM1!@eem2ttl.top(sch_1):term1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!FSEN8!@eem2ttl.top(sch_1):fsen8!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!FSEN7!@eem2ttl.top(sch_1):fsen7!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

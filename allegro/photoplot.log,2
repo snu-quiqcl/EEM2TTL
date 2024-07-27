@@ -1,0 +1,494 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : eem2ttl.brd                                   )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Sat Jul 27 12:40:25 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.13460                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.23800                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.65100                     0.000 NO     DARK 
+  SQUARE     1.77800                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.25000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  0.47500     x 0.50010       0.000 NO     DARK 
+  RECTANGLE  0.47500     x 0.50010      90.000 NO     DARK 
+  RECTANGLE  0.59990     x 0.54000       0.000 NO     DARK 
+  RECTANGLE  0.59990     x 0.54000      90.000 NO     DARK 
+  RECTANGLE  0.59990     x 1.15010      90.000 NO     DARK 
+  RECTANGLE  1.07000     x 2.77000       0.000 NO     DARK 
+  RECTANGLE  1.19990     x 1.81990      90.000 NO     DARK 
+  RECTANGLE  1.22000     x 2.72000      90.000 NO     DARK 
+  RECTANGLE  2.40000     x 3.20000       0.000 NO     DARK 
+  RECTANGLE  5.15010     x 5.15010      90.000 NO     DARK 
+  PAD SHAPE  PS_R86_26_D250            270.000 NO     DARK 
+  PAD SHAPE  PS_R26_86_D250            270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < L1 >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/L1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.65100                     0.000 NO     DARK 
+  SQUARE     1.77800                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+
+     L1 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L2 >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/L2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.65100                     0.000 NO     DARK 
+  SQUARE     1.77800                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+
+     L2 created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.23800                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.65100                     0.000 NO     DARK 
+  SQUARE     1.77800                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_TOP >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/Silkscreen_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (3.3020 35.3060)
+           ... using undefined line width of 0.0500
+
+    WARNING: 0 width line found at (1.5240 48.2600)
+           ... using undefined line width of 0.0500
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.0500
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.0500
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+
+     Silkscreen_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silkcreen_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/Silkcreen_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Silkcreen_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < Soldermask_TOP >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/Soldermask_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.65100                     0.000 NO     DARK 
+  SQUARE     1.77800                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.25000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  0.47500     x 0.50010       0.000 NO     DARK 
+  RECTANGLE  0.47500     x 0.50010      90.000 NO     DARK 
+  RECTANGLE  0.59990     x 1.15010      90.000 NO     DARK 
+  RECTANGLE  0.67490     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  0.67490     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  0.80010     x 0.73990       0.000 NO     DARK 
+  RECTANGLE  0.80010     x 0.73990      90.000 NO     DARK 
+  RECTANGLE  1.22000     x 2.72000      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 2.97000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 2.02010      90.000 NO     DARK 
+  RECTANGLE  2.40000     x 3.20000       0.000 NO     DARK 
+  RECTANGLE  5.35000     x 5.35000      90.000 NO     DARK 
+  PAD SHAPE  PS_R26_86_D250            270.000 NO     DARK 
+  PAD SHAPE  PS_R86_26_D250            270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+
+     Soldermask_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < Soldermask_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/Soldermask_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.65100                     0.000 NO     DARK 
+  SQUARE     1.77800                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,9000.0 270.000 NO     DARK 
+
+     Soldermask_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05000                                  DARK 
+
+     DRILL created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOARD_OUTLINE >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/BOARD_OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05000                                  DARK 
+
+     BOARD_OUTLINE created with warnings
+
+
+================================================================
+     PROCESSING FILM < Pastemask_TOP >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/Pastemask_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.25000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  0.47500     x 0.50010       0.000 NO     DARK 
+  RECTANGLE  0.47500     x 0.50010      90.000 NO     DARK 
+  RECTANGLE  0.59990     x 0.54000       0.000 NO     DARK 
+  RECTANGLE  0.59990     x 0.54000      90.000 NO     DARK 
+  RECTANGLE  0.59990     x 1.15010      90.000 NO     DARK 
+  RECTANGLE  1.07000     x 2.77000       0.000 NO     DARK 
+  RECTANGLE  1.19990     x 1.81990      90.000 NO     DARK 
+  RECTANGLE  1.22000     x 2.72000      90.000 NO     DARK 
+  RECTANGLE  2.40000     x 3.20000       0.000 NO     DARK 
+  PAD SHAPE  PS_R86_26_D250            270.000 NO     DARK 
+  PAD SHAPE  PS_R26_86_D250            270.000 NO     DARK 
+
+     Pastemask_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < Pastemask_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/EEM2TTL2/allegro/Pastemask_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Pastemask_BOTTOM created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        L1 created with warnings
+        L2 created with warnings
+        BOTTOM created with warnings
+        Silkscreen_TOP created with warnings
+        Silkcreen_BOTTOM created with warnings
+        Soldermask_TOP created with warnings
+        Soldermask_BOTTOM created with warnings
+        DRILL created with warnings
+        BOARD_OUTLINE created with warnings
+        Pastemask_TOP created with warnings
+        Pastemask_BOTTOM created with warnings
+
+ ARTWORK had warnings

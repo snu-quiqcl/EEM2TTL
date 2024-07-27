@@ -1,0 +1,37 @@
+\t (00:00:04) allegro 23.1 S003 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Jul 27 12:59:54 2024
+\t (00:00:04)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=32452 CPUs=20
+\t (00:00:04) CmdLine= c:\cadence\orcadx_23.1\tools\bin\allegro.exe C:\Jeonghyun\Lab\EEM2TTL3\allegro\eem2ttl.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged eem2ttl
+\d (00:00:07) Design opened: C:/Jeonghyun/Lab/EEM2TTL3/allegro/eem2ttl.brd
+\i (00:00:08) trapsize 8920
+\i (00:00:08) trapsize 9134
+\i (00:00:08) trapsize 8920
+\i (00:00:08) trapsize 8116
+\i (00:00:08) trapsize 8116
+\t (00:00:08) > Sending response DoneOpenBoard
+\i (00:00:08) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 113.7704 102.8985
+\i (00:00:10) trapsize 4058
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 113.2023 102.8985
+\i (00:00:10) trapsize 2029
+\i (00:00:11) setwindow form.find
+\i (00:00:11) FORM find all_off  
+\i (00:00:12) FORM find symbols YES 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) prepopup 96.1988 92.1445
+\i (00:00:16) pop dyn_option_select '@:@Show element' 
+\i (00:00:16) show element 
+\i (00:00:16) generaledit 
+\i (00:00:26) setwindow text
+\i (00:00:26) close
+\i (00:00:27) setwindow pcb
+\i (00:00:27) exit 
+\t (00:00:27)     Journal end - Sat Jul 27 13:00:17 2024

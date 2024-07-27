@@ -1,0 +1,93 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : eem2ttl.brd                                   )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Fri Jul 26 17:40:54 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  3V3                  VIABGA               (11.9380 41.4020) TOP/BOTTOM 
+  3V3                  VIABGA               (11.9380 42.1640) TOP/BOTTOM 
+  3V3                  VIABGA               (11.9380 44.9580) TOP/BOTTOM 
+  3V3                  VIABGA               (11.9380 45.7200) TOP/BOTTOM 
+  3V3                  VIABGA               (17.0180 45.2120) TOP/BOTTOM 
+  3V3                  VIABGA               (17.5260 45.7200) TOP/BOTTOM 
+  3V3                  VIABGA               (26.6700 66.9780) TOP/BOTTOM 
+  3V3                  VIABGA               (27.4320 66.9780) TOP/BOTTOM 
+  3V3                  VIABGA               (27.9400 62.7380) TOP/BOTTOM 
+  3V3                  VIABGA               (27.9400 70.6900) TOP/BOTTOM 
+  3V3                  VIABGA               (28.7020 62.7380) TOP/BOTTOM 
+  3V3                  VIABGA               (28.7020 70.6900) TOP/BOTTOM 
+  3V3                  VIABGA               (34.7980 41.4020) TOP/BOTTOM 
+  3V3                  VIABGA               (34.7980 42.1640) TOP/BOTTOM 
+  3V3                  VIABGA               (34.7980 44.9580) TOP/BOTTOM 
+  3V3                  VIABGA               (34.7980 45.7200) TOP/BOTTOM 
+  3V3                  VIABGA               (37.0840 70.8660) TOP/BOTTOM 
+  3V3                  VIABGA               (37.3380 62.7380) TOP/BOTTOM 
+  3V3                  VIABGA               (37.8460 70.8660) TOP/BOTTOM 
+  3V3                  VIABGA               (38.1000 62.7380) TOP/BOTTOM 
+  3V3                  VIABGA               (38.6080 66.9780) TOP/BOTTOM 
+  3V3                  VIABGA               (39.3700 66.9780) TOP/BOTTOM 
+  3V3                  VIABGA               (40.3860 45.7200) TOP/BOTTOM 
+  3V3                  VIABGA               (62.0540 66.9780) TOP/BOTTOM 
+  3V3                  VIABGA               (62.7380 41.4020) TOP/BOTTOM 
+  3V3                  VIABGA               (62.7380 42.1640) TOP/BOTTOM 
+  3V3                  VIABGA               (62.7380 44.9580) TOP/BOTTOM 
+  3V3                  VIABGA               (62.7380 45.7200) TOP/BOTTOM 
+  3V3                  VIABGA               (62.8414 66.9780) TOP/BOTTOM 
+  3V3                  VIABGA               (63.5000 62.8650) TOP/BOTTOM 
+  3V3                  VIABGA               (63.9844 70.6900) TOP/BOTTOM 
+  3V3                  VIABGA               (64.2620 62.8650) TOP/BOTTOM 
+  3V3                  VIABGA               (64.6194 70.6900) TOP/BOTTOM 
+  3V3                  VIABGA               (68.3260 45.7200) TOP/BOTTOM 
+  3V3                  VIABGA               (72.5914 70.6900) TOP/BOTTOM 
+  3V3                  VIABGA               (73.1520 62.7380) TOP/BOTTOM 
+  3V3                  VIABGA               (73.2264 70.6900) TOP/BOTTOM 
+  3V3                  VIABGA               (73.9140 62.7380) TOP/BOTTOM 
+  3V3                  VIABGA               (74.1680 95.7580) TOP/BOTTOM 
+  3V3                  VIABGA               (74.2968 66.9780) TOP/BOTTOM 
+  3V3                  VIABGA               (74.9300 95.7580) TOP/BOTTOM 
+  3V3                  VIABGA               (75.1568 66.9780) TOP/BOTTOM 
+  3V3                  VIABGA               (84.3280 82.2960) TOP/BOTTOM 
+  3V3                  VIABGA               (84.3280 83.5660) TOP/BOTTOM 
+  3V3                  VIABGA               (84.3280 84.8360) TOP/BOTTOM 
+  3V3                  VIABGA               (84.3280 86.1060) TOP/BOTTOM 
+  3V3                  VIABGA               (85.5980 41.4020) TOP/BOTTOM 
+  3V3                  VIABGA               (85.5980 42.1640) TOP/BOTTOM 
+  3V3                  VIABGA               (85.5980 44.9580) TOP/BOTTOM 
+  3V3                  VIABGA               (85.5980 45.7200) TOP/BOTTOM 
+  3V3                  VIABGA               (85.5980 82.2960) TOP/BOTTOM 
+  3V3                  VIABGA               (85.5980 83.5660) TOP/BOTTOM 
+  3V3                  VIABGA               (85.5980 84.8360) TOP/BOTTOM 
+  3V3                  VIABGA               (85.5980 86.1060) TOP/BOTTOM 
+  3V3                  VIABGA               (86.8680 82.2960) TOP/BOTTOM 
+  3V3                  VIABGA               (86.8680 83.5660) TOP/BOTTOM 
+  3V3                  VIABGA               (86.8680 84.8360) TOP/BOTTOM 
+  3V3                  VIABGA               (86.8680 86.1060) TOP/BOTTOM 
+  3V3                  VIABGA               (91.1860 45.7200) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       0
+  Total dangling vias:        0
+  Total antenna vias:        59
