@@ -1,4 +1,4 @@
 # EEM2TTL
-![EEM2TTL](https://github.com/user-attachments/assets/394a8f5f-186e-4498-a1ea-f35910bd2a21)
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/6301f944-cec8-4ec2-a169-52431e6bc8bc">
 
 EEM interface to TTL interface convertor board with direction, and termination select
