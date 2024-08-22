@@ -1,0 +1,39 @@
+
+**** 08/02/24 18:08:09 ***** PSpice 23.1.0 (6 March 2024) ***** ID# 0 ********
+
+ ** Profile: "TOP-PowerTest"  [ C:\Jeonghyun\Lab\EEM2TTL5\EEM2TTL-PSpiceFiles\TOP\PowerTest.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "PowerTest.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\SPB_DATA\cdssetup\OrCAD_PSpice\23.1.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ns 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\TOP.net" 
+
+
+
+**** INCLUDING TOP.net ****
+* source EEM2TTL
+
+**** RESUMING PowerTest.cir ****
+.END
+
+WARNING(ORPSIM-15188): There are no devices in this circuit
+

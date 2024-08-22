@@ -1,0 +1,265 @@
+\t (00:00:07) allegro 23.1 S003 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Wed Aug 21 15:23:32 2024
+\t (00:00:07)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=18852 CPUs=20
+\t (00:00:07) CmdLine= c:\cadence\orcadx_23.1\tools\bin\allegro.exe C:\Jeonghyun\Lab\EEM2TTL7\allegro\eem2ttl.brd
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged eem2ttl
+\d (00:00:10) Design opened: C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd
+\i (00:00:10) trapsize 4192
+\i (00:00:10) trapsize 4292
+\i (00:00:11) trapsize 4192
+\i (00:00:11) trapsize 3620
+\i (00:00:11) trapsize 3620
+\t (00:00:11) > Sending response DoneOpenBoard
+\i (00:00:11) generaledit 
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 28.1688 33.6718
+\i (00:00:16) trapsize 1810
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 29.1101 33.3822
+\i (00:00:16) trapsize 905
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 29.2187 33.3822
+\i (00:00:16) trapsize 453
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 29.3002 33.3732
+\i (00:00:16) trapsize 226
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 29.4948 33.4095
+\i (00:00:16) trapsize 453
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 29.4949 33.4094
+\i (00:00:16) trapsize 905
+\i (00:00:17) roam start
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 288
+\i (00:00:17) roam x -16
+\i (00:00:17) roam y 80
+\i (00:00:17) roam y 128
+\i (00:00:17) roam y 64
+\i (00:00:17) roam y 64
+\i (00:00:17) roam y 32
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam end
+\i (00:00:19) setwindow form.find
+\i (00:00:19) FORM find all_off  
+\i (00:00:19) FORM find clines YES 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) prepopup 32.8658 25.9523
+\i (00:00:22) pop dyn_option_select '@:@Show element' 
+\i (00:00:22) show element 
+\i (00:00:23) generaledit 
+\i (00:00:29) setwindow text
+\i (00:00:29) close
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 40.2877 33.0665
+   (00:00:29) Loading signal.cxt 
+\i (00:00:29) trapsize 1810
+\i (00:00:34) prepopup 38.1517 34.7320
+\i (00:00:36) pop dyn_option_select '@:@Show element' 
+\i (00:00:36) show element 
+\i (00:00:36) generaledit 
+\i (00:00:38) setwindow text
+\i (00:00:38) close
+\i (00:00:45) setwindow pcb
+\i (00:00:45) show element 
+\i (00:00:45) generaledit 
+\i (00:00:47) setwindow text
+\i (00:00:47) close
+\i (00:00:48) setwindow pcb
+\i (00:00:48) pick grid 15.1256 34.4061
+\t (00:00:48) last pick:  15.2400 34.2900
+\i (00:00:49) show element 
+\i (00:00:49) generaledit 
+\i (00:00:52) setwindow text
+\i (00:00:52) close
+\i (00:00:56) setwindow pcb
+\i (00:00:56) pick grid 10.0569 30.2426
+\t (00:00:56) last pick:  10.1600 30.2260
+\i (00:00:56) show element 
+\i (00:00:56) generaledit 
+\i (00:00:59) setwindow text
+\i (00:00:59) close
+\i (00:01:01) setwindow pcb
+\i (00:01:01) roam start
+\i (00:01:01) roam x 16
+\i (00:01:01) roam x 64
+\i (00:01:01) roam y -16
+\i (00:01:01) roam x 80
+\i (00:01:01) roam x 64
+\i (00:01:01) roam y -16
+\i (00:01:01) roam x 32
+\i (00:01:01) roam y -16
+\i (00:01:01) roam x 32
+\i (00:01:01) roam x 48
+\i (00:01:01) roam x 80
+\i (00:01:01) roam y -16
+\i (00:01:01) roam x 96
+\i (00:01:01) roam y -32
+\i (00:01:01) roam x 80
+\i (00:01:01) roam y -16
+\i (00:01:01) roam x 80
+\i (00:01:01) roam y -32
+\i (00:01:02) roam x 80
+\i (00:01:02) roam y -16
+\i (00:01:02) roam x 80
+\i (00:01:02) roam x 112
+\i (00:01:02) roam y -16
+\i (00:01:02) roam x 32
+\i (00:01:02) roam x 16
+\i (00:01:02) roam x 112
+\i (00:01:02) roam x 96
+\i (00:01:02) roam y -16
+\i (00:01:02) roam x 48
+\i (00:01:02) roam y -16
+\i (00:01:02) roam x 32
+\i (00:01:02) roam y -32
+\i (00:01:02) roam x 32
+\i (00:01:02) roam y -16
+\i (00:01:02) roam x 48
+\i (00:01:02) roam y -32
+\i (00:01:02) roam y -16
+\i (00:01:02) roam x 16
+\i (00:01:03) roam end
+\i (00:01:05) show element 
+\i (00:01:05) generaledit 
+\i (00:01:06) show element 
+\i (00:01:06) generaledit 
+\i (00:01:09) setwindow text
+\i (00:01:09) close
+\i (00:01:12) setwindow pcb
+\i (00:01:12) pick grid 60.8162 35.4021
+\t (00:01:12) last pick:  60.7060 35.3060
+\i (00:01:13) show element 
+\i (00:01:13) generaledit 
+\i (00:01:17) setwindow text
+\i (00:01:17) close
+\i (00:01:18) setwindow pcb
+\i (00:01:18) pick grid 65.9572 36.4882
+\t (00:01:18) last pick:  66.0400 36.5760
+\i (00:01:20) show element 
+\i (00:01:20) generaledit 
+\i (00:01:21) setwindow text
+\i (00:01:21) close
+\i (00:01:24) setwindow pcb
+\i (00:01:24) pick grid 83.6250 36.1986
+\t (00:01:24) last pick:  83.5660 36.3220
+\i (00:01:25) show element 
+\i (00:01:25) generaledit 
+\i (00:01:26) pick grid 98.1431 50.1011
+\t (00:01:26) last pick:  98.0440 50.0380
+\i (00:01:27) setwindow text
+\i (00:01:27) close
+\i (00:01:29) setwindow pcb
+\i (00:01:29) pick grid 89.0557 37.3209
+\t (00:01:29) last pick:  89.1540 37.3380
+\i (00:01:29) show element 
+\i (00:01:29) generaledit 
+\i (00:01:31) setwindow text
+\i (00:01:31) close
+\i (00:01:33) setwindow pcb
+\i (00:01:33) pick grid 88.0058 45.7204
+\t (00:01:33) last pick:  87.8840 45.7200
+\i (00:01:34) show element 
+\i (00:01:34) generaledit 
+\i (00:01:36) setwindow text
+\i (00:01:36) close
+\i (00:01:37) setwindow pcb
+\i (00:01:37) pick grid 82.7199 45.5756
+\t (00:01:37) last pick:  82.8040 45.4660
+\i (00:01:38) show element 
+\i (00:01:38) generaledit 
+\i (00:01:40) setwindow text
+\i (00:01:40) close
+\i (00:01:42) setwindow pcb
+\i (00:01:42) pick grid 66.2831 45.8290
+\t (00:01:42) last pick:  66.2940 45.7200
+\i (00:01:42) show element 
+\i (00:01:42) generaledit 
+\i (00:01:44) setwindow text
+\i (00:01:44) close
+\i (00:01:47) setwindow pcb
+\i (00:01:47) pick grid 61.0696 46.4807
+\t (00:01:47) last pick:  60.9600 46.4820
+\i (00:01:47) show element 
+\i (00:01:47) generaledit 
+\i (00:01:49) setwindow text
+\i (00:01:49) close
+\i (00:01:53) setwindow pcb
+\i (00:01:53) roam start
+\i (00:01:53) roam x -16
+\i (00:01:53) roam x -64
+\i (00:01:53) roam x -112
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -96
+\i (00:01:53) roam y -32
+\i (00:01:53) roam x -112
+\i (00:01:53) roam y -32
+\i (00:01:53) roam x -128
+\i (00:01:53) roam y -32
+\i (00:01:53) roam x -96
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -144
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -80
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -64
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -64
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -32
+\i (00:01:53) roam x -16
+\i (00:01:53) roam x -64
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x -80
+\i (00:01:53) roam y -48
+\i (00:01:53) roam x -64
+\i (00:01:53) roam y -32
+\i (00:01:54) roam x -48
+\i (00:01:54) roam y -16
+\i (00:01:54) roam x -64
+\i (00:01:54) roam y -32
+\i (00:01:54) roam x -32
+\i (00:01:54) roam y -32
+\i (00:01:54) roam end
+\i (00:01:57) pick grid 38.1159 54.8439
+\t (00:01:57) last pick:  38.1000 54.8640
+\i (00:01:57) show element 
+\i (00:01:57) generaledit 
+\i (00:01:59) setwindow text
+\i (00:01:59) close
+\i (00:02:00) setwindow pcb
+\i (00:02:00) pick grid 34.6402 56.3283
+\t (00:02:00) last pick:  34.5440 56.3880
+\i (00:02:00) show element 
+\i (00:02:00) generaledit 
+\i (00:02:02) setwindow text
+\i (00:02:02) close
+\i (00:02:04) setwindow pcb
+\i (00:02:04) pick grid 29.6802 54.4457
+\t (00:02:04) last pick:  29.7180 54.3560
+\i (00:02:05) show element 
+\i (00:02:05) generaledit 
+\i (00:02:07) setwindow text
+\i (00:02:07) close
+\i (00:02:08) setwindow pcb
+\i (00:02:08) pick grid 27.7976 57.2334
+\t (00:02:08) last pick:  27.6860 57.1500
+\i (00:02:08) show element 
+\i (00:02:08) generaledit 
+\i (00:02:10) setwindow text
+\i (00:02:10) close
+\i (00:04:20) setwindow pcb
+\i (00:04:20) exit 
+\t (00:04:20)     Journal end - Wed Aug 21 15:27:45 2024

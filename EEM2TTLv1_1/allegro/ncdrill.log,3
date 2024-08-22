@@ -1,0 +1,62 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : eem2ttl.brd                                   )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Wed Aug 21 12:28:42 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		5.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/Jeonghyun/Lab/EEM2TTL7/allegro' ...
+
+
+
+     'eem2ttl-1-4.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.2540    0.0762/  0.0762      PLATED       1431
+            2.   0.8890    0.0000/  0.0000      PLATED         16
+            3.   0.9000    0.0000/  0.0000      PLATED         16
+            4.   1.0200    0.0000/  0.0000      PLATED        126
+            5.   1.0998    0.0000/  0.0000      PLATED         30
+            6.   2.0000    0.0000/  0.0000      PLATED          8
+            7.   2.6250    0.0000/  0.0000      PLATED          1
+            8.   3.1500    0.0000/  0.0000      PLATED          2
+            9.   3.2000    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                       1634
+
+     ---- Total head travel:              36.11 feet (11.01 meters)
+

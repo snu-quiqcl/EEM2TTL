@@ -1,0 +1,996 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3V3          pins DELETED FROM this net (pin now not on any net)
+                                 U32.1            2.5400 55.8800
+                                 U67.1            5.0800 28.7020
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins MOVED FROM this net (to net name listed on right)
+                                 C6.2             5.2560 73.4060
+                                                                           DIR1
+                                 C7.2             7.7960 73.4060
+                                                                          FSEN1
+                                 C11.2                          
+                                                                           DIR2
+                                 C12.2                          
+                                                                          FSEN2
+                                 C13.2                          
+                                                                    DIR_BUFFER2
+                                 C16.2                          
+                                                                           DIR3
+                                 C17.2                          
+                                                                          FSEN3
+                                 C18.2                          
+                                                                    DIR_BUFFER3
+                                 C21.2                          
+                                                                           DIR4
+                                 C26.2                          
+                                                                           DIR5
+                                 C27.2                          
+                                                                          FSEN5
+                                 C28.2                          
+                                                                    DIR_BUFFER5
+                                 C38.2                          
+                                                                    DIR_BUFFER7
+                                 C41.2                          
+                                                                           DIR8
+                                 U20.1                          
+                                                                     BUFFER_IN2
+                                 U27.2                          
+                                                                    BUFFER_OUT3
+                                 U42.1           -71.374 26.1620
+                                                                    DIR_BUFFER5
+                                 U46.2                          
+                                                                          TERM5
+                                 U49.1           -45.974 54.3560
+                                                                    DIR_BUFFER6
+                                 U55.1           -16.256 50.2920
+                                                                     BUFFER_IN7
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U56.1           81.2800 68.5800
+                                                                    DIR_BUFFER7
+                                 U62.1           91.4400 68.5800
+                                                                     BUFFER_IN8
+                                 U63.1           91.4400 66.0400
+                                                                    DIR_BUFFER8
+                                 U69.1           35.7700 69.4750
+                                                                           DIR1
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U45.1            5.0800 38.1000
+                                 U52.1           93.9800 38.1000
+                                 U58.1           78.7400 38.1000
+                                 U64.1           71.1200 38.1000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  12V0EEM      pins MOVED FROM this net (to net name listed on right)
+                                 U8.3            76.1600 15.2400
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  12V0EXT      pins MOVED FROM this net (to net name listed on right)
+                                 U8.1            81.2900 15.2400
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  12V0         pins MOVED FROM this net (to net name listed on right)
+                                 U8.2            78.7400 15.2400
+                                                                    BUFFER_OUT5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_IN7   pins MOVED FROM this net (to net name listed on right)
+                                 U19.4           38.0920 43.2260
+                                                                     BUFFER_IN1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_IN_SW1 pins MOVED FROM this net (to net name listed on right)
+                                 U13.1           -22.606 35.3060
+                                                                     BUFFER_IN1
+                                 U21.1                          
+                                                                    DIR_BUFFER2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_IN_SW9 pins MOVED FROM this net (to net name listed on right)
+                                 U28.1           -12.192  0.2540
+                                                                    DIR_BUFFER3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_IN_SW10 pins MOVED FROM this net (to net name listed on right)
+                                 U34.1           -56.388 -7.3660
+                                                                     BUFFER_IN4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  BUFFER_IN_SW11 pins MOVED FROM this net (to net name listed on right)
+                                 U40.1            9.1520 42.6260
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_IN_SW12 pins MOVED FROM this net (to net name listed on right)
+                                 U47.1           87.8920 42.6260
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_IN_SW13 pins DELETED FROM this net (all pins deleted)
+                                 U53.1           -29.210 63.5000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_IN_SW14 pins MOVED FROM this net (to net name listed on right)
+                                 U59.1           -30.734 46.4820
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_IN_SW15 pins MOVED FROM this net (to net name listed on right)
+                                 U65.1           -29.464 32.5120
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT1  pins MOVED FROM this net (to net name listed on right)
+                                 R12.2            5.3380 71.3740
+                                                                           DIR1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT2  pins MOVED FROM this net (to net name listed on right)
+                                 R13.2            7.8780 71.3740
+                                                                          FSEN1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT3  pins MOVED FROM this net (to net name listed on right)
+                                 U15.3           -23.622 11.9380
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT4  pins MOVED FROM this net (to net name listed on right)
+                                 R15.2           38.1940 40.6400
+                                                                    BUFFER_OUT1
+                                 U16.3            7.6200 68.5800
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT5  pins MOVED FROM this net (to net name listed on right)
+                                 R16.2                          
+                                                                           DIR2
+                                 U9.2            82.0420 98.0440
+                                                                           12V0
+                                 U17.3            7.6200 66.0400
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  BUFFER_OUT6  pins MOVED FROM this net (to net name listed on right)
+                                 R17.2                          
+                                                                          FSEN2
+                                 U18.3           43.1800 43.1800
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT7  pins MOVED FROM this net (to net name listed on right)
+                                 R18.2                          
+                                                                    DIR_BUFFER2
+                                 U19.3           38.0920 42.6260
+                                                                    BUFFER_OUT1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT8  pins MOVED FROM this net (to net name listed on right)
+                                 R19.2           32.9260 40.6400
+                                                                    BUFFER_OUT2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT_SW1 pins MOVED FROM this net (to net name listed on right)
+                                 U13.2           -20.066 35.3060
+                                                                    BUFFER_OUT1
+                                 U21.2                          
+                                                                           DIR2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT_SW9 pins MOVED FROM this net (to net name listed on right)
+                                 U28.2           -9.6520  0.2540
+                                                                           DIR3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT_SW10 pins MOVED FROM this net (to net name listed on right)
+                                 U34.2           -53.848 -7.3660
+                                                                    BUFFER_OUT4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT_SW11 pins MOVED FROM this net (to net name listed on right)
+                                 U40.2            9.6520 42.6260
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT_SW12 pins MOVED FROM this net (to net name listed on right)
+                                 U47.2           88.3920 42.6260
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT_SW13 pins MOVED FROM this net (to net name listed on right)
+                                 U53.2           -26.670 63.5000
+                                                                          TERM6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUFFER_OUT_SW14 pins MOVED FROM this net (to net name listed on right)
+                                 U59.2           -28.194 46.4820
+                                                                          FSEN7
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  BUFFER_OUT_SW15 pins MOVED FROM this net (to net name listed on right)
+                                 U65.2           -26.924 32.5120
+                                                                           DIR8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR1         pins MOVED FROM this net (to net name listed on right)
+                                 C22.2                          
+                                                                          FSEN4
+                                 R20.2                          
+                                                                           DIR3
+                                 U22.2                          
+                                                                    DIR_BUFFER2
+                                 U24.2                          
+                                                                          FSEN2
+                                 U27.1                          
+                                                                     BUFFER_IN3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR2         pins MOVED FROM this net (to net name listed on right)
+                                 C29.2           59.1040 44.1960
+                                                                            3V3
+                                 R27.2           10.0660 40.6400
+                                                                    BUFFER_OUT4
+                                 U29.2           -45.212  5.3340
+                                                                    DIR_BUFFER3
+                                 U31.2            5.0800 58.4200
+                                                                          FSEN3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR3         pins MOVED FROM this net (to net name listed on right)
+                                 C32.2           15.4160 73.4060
+                                                                          FSEN6
+                                 R30.2           15.4980 71.3740
+                                                                    DIR_BUFFER5
+                                 U35.2           -26.670 -13.970
+                                                                           DIR4
+                                 U37.2           15.2400 68.5800
+                                                                           DIR4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR4         pins MOVED FROM this net (to net name listed on right)
+                                 C35.2           64.1840 44.1960
+                                                                            3V3
+                                 R33.2           15.4980 61.2140
+                                                                          FSEN6
+                                 U41.2           -78.740 -4.0640
+                                                                    BUFFER_OUT5
+                                 U43.2           15.2400 58.4200
+                                                                    DIR_BUFFER5
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DIR5         pins MOVED FROM this net (to net name listed on right)
+                                 C42.2           86.5360 62.9920
+                                                                          FSEN8
+                                 R40.2           86.6180 61.2140
+                                                                           DIR8
+                                 U48.2           -61.468  1.5240
+                                                                    BUFFER_OUT6
+                                 U50.2           83.8200 58.4200
+                                                                    DIR_BUFFER6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR6         pins MOVED FROM this net (to net name listed on right)
+                                 C45.2           87.0440 42.9260
+                                                                            3V3
+                                 R43.2           60.8660 40.6400
+                                                                    BUFFER_OUT8
+                                 U54.2           83.3120 42.6260
+                                                                            GND
+                                 U56.2           83.8200 68.5800
+                                                                           DIR7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR7         pins MOVED FROM this net (to net name listed on right)
+                                 C48.2           29.7180 70.6900
+                                                                            3V3
+                                 R46.2           34.0320 70.8660
+                                                                        LVDS2_N
+                                 U60.2           -14.478 51.3080
+                                                                          TERM7
+                                 U62.2           93.9800 68.5800
+                                                                    BUFFER_OUT8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR8         pins MOVED FROM this net (to net name listed on right)
+                                 C51.2           71.8820 70.6900
+                                                                            3V3
+                                 R49.2           66.5440 70.8660
+                                                                        LVDS7_N
+                                 U66.2            5.0800 22.8600
+                                                                          FSEN8
+                                 U68.2           60.4520 42.6260
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER7  pins MOVED FROM this net (to net name listed on right)
+                                 U19.5           37.5920 43.2260
+                                                                    DIR_BUFFER1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER_SW1 pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C8.2                           
+                                                                    DIR_BUFFER1
+                                 C24.2           36.2440 44.1960
+                                                                            3V3
+                                 R14.2                          
+                                                                    DIR_BUFFER1
+                                 R22.2                          
+                                                                    DIR_BUFFER3
+                                 U14.1           -23.114 28.1940
+                                                                    DIR_BUFFER1
+                                 U15.2           -26.162 11.9380
+                                                                    DIR_BUFFER1
+                                 U22.1                          
+                                                                            3V3
+                                 U23.2                          
+                                                                           DIR2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER_SW9 pins MOVED FROM this net (to net name listed on right)
+                                 C31.2                          
+                                                                           DIR6
+                                 R29.2                          
+                                                                          FSEN5
+                                 U29.1           -47.752  5.3340
+                                                                            3V3
+                                 U30.2           -42.926 29.7180
+                                                                           DIR3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER_SW10 pins MOVED FROM this net (to net name listed on right)
+                                 C34.2           64.1840 42.9260
+                                                                            3V3
+                                 R32.2                          
+                                                                           DIR6
+                                 U35.1           -29.210 -13.970
+                                                                    DIR_BUFFER4
+                                 U36.2           -50.800 17.7800
+                                                                    DIR_BUFFER4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER_SW11 pins MOVED FROM this net (to net name listed on right)
+                                 C37.2                          
+                                                                          FSEN7
+                                 R35.2           83.7260 40.6400
+                                                                    BUFFER_OUT6
+                                 U41.1           -81.280 -4.0640
+                                                                     BUFFER_IN5
+                                 U42.2           -68.834 26.1620
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                           DIR5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER_SW12 pins MOVED FROM this net (to net name listed on right)
+                                 C44.2           87.0440 44.1960
+                                                                            3V3
+                                 R42.2                          
+                                                                    DIR_BUFFER8
+                                 U48.1           -64.008  1.5240
+                                                                     BUFFER_IN6
+                                 U49.2           -43.434 54.3560
+                                                                           DIR6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER_SW13 pins MOVED FROM this net (to net name listed on right)
+                                 C47.2           36.3220 70.6900
+                                                                            3V3
+                                 R45.2           30.9840 70.8660
+                                                                        LVDS3_N
+                                 U54.1           82.8120 42.6260
+                                                                            3V3
+                                 U55.2           -13.716 50.2920
+                                                                    BUFFER_OUT7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER_SW14 pins DELETED FROM this net (all pins deleted)
+                                 U60.1           -17.018 51.3080
+               pins MOVED FROM this net (to net name listed on right)
+                                 C50.2           73.4060 66.9780
+                                                                            3V3
+                                 R48.2           63.7540 68.0680
+                                                                        LVDS8_N
+                                 U61.2           65.5320 42.6260
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DIR_BUFFER_SW15 pins MOVED FROM this net (to net name listed on right)
+                                 C53.2           63.7540 66.9780
+                                                                            3V3
+                                 R51.2           73.4060 69.0920
+                                                                        LVDS5_N
+                                 U66.1            5.0800 20.3200
+                                                                            3V3
+                                 U67.2            5.0800 31.2420
+                                                                          TERM8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FSEN1        pins MOVED FROM this net (to net name listed on right)
+                                 C23.2                          
+                                                                    DIR_BUFFER4
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R21.2                          
+                                                                          FSEN3
+                                 U25.2                          
+                                                                          TERM2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FSEN2        pins MOVED FROM this net (to net name listed on right)
+                                 C30.2           59.1040 42.9260
+                                                                            3V3
+                                 R28.2            7.8780 61.2140
+                                                                           DIR5
+                                 U32.2            5.0800 55.8800
+                                                                          TERM3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FSEN3        pins MOVED FROM this net (to net name listed on right)
+                                 C33.2           17.9560 73.4060
+                                                                    DIR_BUFFER6
+                                 R31.2           88.9940 40.6400
+                                                                    BUFFER_OUT5
+                                 U38.2           15.2400 66.0400
+                                                                          FSEN4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FSEN4        pins MOVED FROM this net (to net name listed on right)
+                                 C36.2           17.9560 62.9920
+                                                                           DIR7
+                                 R34.2           18.0380 61.2140
+                                                                    DIR_BUFFER6
+                                 U44.2           15.2400 55.8800
+                                                                           DIR5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FSEN5        pins MOVED FROM this net (to net name listed on right)
+                                 C43.2           83.9960 62.9920
+                                                                    DIR_BUFFER8
+                                 R41.2           84.0780 61.2140
+                                                                          FSEN8
+                                 U51.2           83.8200 55.8800
+                                                                           DIR6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FSEN6        pins MOVED FROM this net (to net name listed on right)
+                                 C46.2           37.8460 66.9780
+                                                                            3V3
+                                 R44.2           28.1940 68.0680
+                                                                        LVDS4_N
+                                 U57.2           83.8200 66.0400
+                                                                    DIR_BUFFER7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  FSEN7        pins MOVED FROM this net (to net name listed on right)
+                                 C49.2           28.1940 66.9780
+                                                                            3V3
+                                 R47.2           37.8460 69.0920
+                                                                        LVDS1_N
+                                 U63.2           93.9800 66.0400
+                                                                           DIR8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FSEN8        pins MOVED FROM this net (to net name listed on right)
+                                 C52.2           65.2780 70.6900
+                                                                            3V3
+                                 R50.2           69.5920 70.8660
+                                                                        LVDS6_N
+                                 U69.2           35.2700 69.4750
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins DELETED FROM this net (pin now not on any net)
+                                 U42.3           -66.294 26.1620
+                                 U49.3           -40.894 54.3560
+                                 U55.3           -11.176 50.2920
+                                 U56.3           86.3600 68.5800
+                                 U62.3           96.5200 68.5800
+                                 U63.3           96.5200 66.0400
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins MOVED FROM this net (to net name listed on right)
+                                 R27.1            7.2060 40.6400
+                                                                          TERM4
+                                 R31.1           91.8540 40.6400
+                                                                          TERM5
+                                 R35.1           80.8660 40.6400
+                                                                          TERM6
+                                 R43.1           58.0060 40.6400
+                                                                          TERM8
+                                 R44.1           28.1940 69.0920
+                                                                        LVDS4_P
+                                 R45.1           32.0080 70.8660
+                                                                        LVDS3_P
+                                 R46.1           35.0560 70.8660
+                                                                        LVDS2_P
+                                 R47.1           37.8460 68.0680
+                                                                        LVDS1_P
+                                 R48.1           63.7540 69.0920
+                                                                        LVDS8_P
+                                 R49.1           67.5680 70.8660
+                                                                        LVDS7_P
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R50.1           70.6160 70.8660
+                                                                        LVDS6_P
+                                 R51.1           73.4060 68.0680
+                                                                        LVDS5_P
+                                 U9.1            84.5820 98.0440
+                                                                        12V0EXT
+                                 U9.3            79.5020 98.0440
+                                                                        12V0EEM
+                                 U14.2           -20.574 28.1940
+                                                                           DIR1
+                                 U16.2            5.0800 68.5800
+                                                                           DIR1
+                                 U17.2            5.0800 66.0400
+                                                                          FSEN1
+                                 U18.2           43.1800 40.6400
+                                                                          TERM1
+                                 U20.2                          
+                                                                    BUFFER_OUT2
+                                 U26.3           33.0120 42.6260
+                                                                    BUFFER_OUT2
+                                 U33.3           15.2320 42.6260
+                                                                    BUFFER_OUT3
+                                 U61.3           66.0320 42.6260
+                                                                    BUFFER_OUT7
+                                 U68.3           60.9520 42.6260
+                                                                    BUFFER_OUT8
+                                 U69.3           34.7700 69.4750
+                                                                        LVDS2_P
+                                 U70.3           70.3300 69.4750
+                                                                        LVDS6_P
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U22.3                          
+                                 U29.3           -42.672  5.3340
+                                 U53.3           -24.130 63.5000
+                                 U59.3           -25.654 46.4820
+                                 U60.3           -11.938 51.3080
+                                 U65.3           -24.384 32.5120
+                                 U66.3            5.0800 25.4000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS1_N      pins MOVED FROM this net (to net name listed on right)
+                                 R26.2                          
+                                                                    DIR_BUFFER4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS1_P      pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R26.1                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS2_N      pins MOVED FROM this net (to net name listed on right)
+                                 R25.2                          
+                                                                          FSEN4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS2_P      pins MOVED FROM this net (to net name listed on right)
+                                 R25.1                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS3_N      pins MOVED FROM this net (to net name listed on right)
+                                 R24.2                          
+                                                                           DIR4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS3_P      pins MOVED FROM this net (to net name listed on right)
+                                 R24.1                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS4_N      pins MOVED FROM this net (to net name listed on right)
+                                 R23.2           15.3340 40.6400
+                                                                    BUFFER_OUT3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS4_P      pins MOVED FROM this net (to net name listed on right)
+                                 R23.1           18.1940 40.6400
+                                                                          TERM3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS5_N      pins MOVED FROM this net (to net name listed on right)
+                                 R39.2           66.1340 40.6400
+                                                                    BUFFER_OUT7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS5_P      pins MOVED FROM this net (to net name listed on right)
+                                 R39.1           68.9940 40.6400
+                                                                          TERM7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS6_N      pins MOVED FROM this net (to net name listed on right)
+                                 R38.2                          
+                                                                    DIR_BUFFER7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS6_P      pins MOVED FROM this net (to net name listed on right)
+                                 R38.1                          
+                                                                            GND
+                                 U46.3                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LVDS7_N      pins MOVED FROM this net (to net name listed on right)
+                                 R37.2                          
+                                                                          FSEN7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS7_P      pins MOVED FROM this net (to net name listed on right)
+                                 R37.1                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS8_N      pins MOVED FROM this net (to net name listed on right)
+                                 R36.2                          
+                                                                           DIR7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LVDS8_P      pins MOVED FROM this net (to net name listed on right)
+                                 R36.1                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TERM1        pins MOVED FROM this net (to net name listed on right)
+                                 R12.1            4.3140 71.3740
+                                                                            GND
+                                 U26.2           32.5120 42.6260
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TERM2        pins MOVED FROM this net (to net name listed on right)
+                                 R13.1            6.8540 71.3740
+                                                                            GND
+                                 U33.2           14.7320 42.6260
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TERM3        pins MOVED FROM this net (to net name listed on right)
+                                 R14.1                          
+                                                                            GND
+                                 U39.2           20.3200 40.6400
+                                                                          TERM4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TERM4        pins MOVED FROM this net (to net name listed on right)
+                                 R15.1           41.0540 40.6400
+                                                                          TERM1
+                                 U45.2            5.0800 40.6400
+                                                                          FSEN5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TERM5        pins MOVED FROM this net (to net name listed on right)
+                                 R16.1                          
+                                                                            GND
+                                 U52.2           93.9800 40.6400
+                                                                          FSEN6
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  TERM6        pins MOVED FROM this net (to net name listed on right)
+                                 R17.1                          
+                                                                            GND
+                                 U58.2           78.7400 40.6400
+                                                                           DIR7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TERM7        pins MOVED FROM this net (to net name listed on right)
+                                 R18.1                          
+                                                                            GND
+                                 U64.2           71.1200 40.6400
+                                                                    DIR_BUFFER8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TERM8        pins MOVED FROM this net (to net name listed on right)
+                                 R19.1           30.0660 40.6400
+                                                                          TERM2
+                                 U70.2           70.8300 69.4750
+                                                                            3V3
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C29                 TMK105BJ104KV-F_CAPC1005X55N_100NF  4.8260 62.9920
+ C30                 TMK105BJ104KV-F_CAPC1005X55N_100NF  7.3660 62.9920
+ C34                 TMK105BJ104KV-F_CAPC1005X55N_100NF                
+ C35                 TMK105BJ104KV-F_CAPC1005X55N_100NF 14.9860 62.9920
+ C44                 TMK105BJ104KV-F_CAPC1005X55N_100NF                
+ C45                 TMK105BJ104KV-F_CAPC1005X55N_100NF 86.1060 73.1520
+ C46                 TMK105BJ104KV-F_CAPC1005X55N_100NF 83.5660 73.1520
+ C47                 TMK105BJ104KV-F_CAPC1005X55N_100NF                
+ C48                 TMK105BJ104KV-F_CAPC1005X55N_100NF 93.7260 73.1520
+ C49                 TMK105BJ104KV-F_CAPC1005X55N_100NF 96.2660 73.1520
+ C50                 TMK105BJ104KV-F_CAPC1005X55N_100NF                
+ C51                 TMK105BJ104KV-F_CAPC1005X55N_100NF 93.7260 62.9920
+ C52                 TMK105BJ104KV-F_CAPC1005X55N_100NF 96.2660 62.9920
+ C53                 TMK105BJ104KV-F_CAPC1005X55N_100NF                
+ R27                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K  4.8260 61.2140
+ R31                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 17.5260 71.3740
+ R35                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K                
+ R43                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 86.1060 71.3740
+ R44                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 83.5660 71.3740
+ R45                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K                
+ R46                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 93.7260 71.3740
+ R47                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 96.2660 71.3740
+ R48                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K                
+ R49                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 93.7260 61.2140
+ R50                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 96.2660 61.2140
+ R51                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K                
+ U33                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 27.9400 40.6400
+ U40                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE -51.562 -12.954
+ U47                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE -45.212 34.7980
+ U54                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE -11.176 70.3580
+ U61                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE -17.018 48.5140
+ U68                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 93.9800 58.4200
+ U69                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 93.9800 55.8800
+ U70                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 55.8800 40.6400
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C12                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C13                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C16                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C17                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C18                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C21                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C22                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C23                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C26                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C27                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C28                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C38                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ C41                 TMK105BJ104KV-F_CAPC1005X55N_100NF 
+ R16                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R17                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R18                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R20                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R21                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R22                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R24                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R25                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R26                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R36                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R37                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ R38                 ERJ2RKF1002X_0_ERJ2RKD1004X_10K 
+ U20                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 
+ U21                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 
+ U22                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 
+ U23                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 
+ U24                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 
+ U25                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 
+ U27                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 
+ U46                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          XY             (380,370)
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          XY             (460,370)
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          XY             (570,370)
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          XY             (380,370)
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          XY             (460,370)
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          XY             (570,370)
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          XY             (380,370)
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          XY             (460,370)
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          XY             (570,370)
+ C26.2                          PRIM_FILE      .\pstchip.dat
+ C26.2                          XY             (380,370)
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          XY             (460,370)
+ C28.2                          PRIM_FILE      .\pstchip.dat
+ C28.2                          XY             (570,370)
+ C31.2                          XY             (380,370)
+ C32.2          14.9860 73.4060 XY             (460,370)
+ C33.2          17.5260 73.4060 XY             (570,370)
+ C36.2          17.5260 62.9920 XY             (380,370)
+ C37.2                          XY             (460,370)
+ C38.2                          PRIM_FILE      .\pstchip.dat
+ C38.2                          XY             (570,370)
+ C41.2                          PRIM_FILE      .\pstchip.dat
+ C41.2                          XY             (380,370)
+ C42.2          86.1060 62.9920 XY             (460,370)
+ C43.2          83.5660 62.9920 XY             (570,370)
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          XY             (350,360)
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          XY             (430,360)
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          XY             (540,360)
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          XY             (350,360)
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          XY             (430,360)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  18  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          XY             (540,360)
+ R24.2                          PRIM_FILE      .\pstchip.dat
+ R24.2                          XY             (350,360)
+ R25.2                          PRIM_FILE      .\pstchip.dat
+ R25.2                          XY             (430,360)
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ R26.2                          XY             (540,360)
+ R28.2           7.3660 61.2140 XY             (350,360)
+ R29.2                          XY             (430,360)
+ R30.2          14.9860 71.3740 XY             (540,360)
+ R32.2                          XY             (350,360)
+ R33.2          14.9860 61.2140 XY             (430,360)
+ R34.2          17.5260 61.2140 XY             (540,360)
+ R36.2                          PRIM_FILE      .\pstchip.dat
+ R36.2                          XY             (350,360)
+ R37.2                          PRIM_FILE      .\pstchip.dat
+ R37.2                          XY             (430,360)
+ R38.2                          PRIM_FILE      .\pstchip.dat
+ R38.2                          XY             (540,360)
+ U20.3                          PRIM_FILE      .\pstchip.dat
+ U20.3                          XY             (440,60)
+ U21.3                          PRIM_FILE      .\pstchip.dat
+ U21.3                          XY             (360,160)
+ U22.3                          PRIM_FILE      .\pstchip.dat
+ U22.3                          XY             (120,190)
+ U23.3                          PRIM_FILE      .\pstchip.dat
+ U23.3                          XY             (120,240)
+ U24.3                          PRIM_FILE      .\pstchip.dat
+ U24.3                          XY             (120,290)
+ U25.3                          PRIM_FILE      .\pstchip.dat
+ U25.3                          XY             (120,340)
+ U27.3                          PRIM_FILE      .\pstchip.dat
+ U27.3                          XY             (440,60)
+ U28.3          -9.6520  0.2540 XY             (360,160)
+ U29.3          -45.212  5.3340 XY             (120,190)
+ U30.3          -42.926 29.7180 XY             (120,240)
+ U31.3           5.0800 58.4200 XY             (120,290)
+ U32.3           5.0800 55.8800 XY             (120,340)
+ U41.3          -78.740 -4.0640 XY             (440,60)
+ U42.3          -68.834 26.1620 XY             (360,160)
+ U43.3          15.2400 58.4200 XY             (120,190)
+ U44.3          15.2400 55.8800 XY             (120,240)
+ U45.3           5.0800 40.6400 XY             (120,290)
+ U46.3                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  19  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 12:01:27 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U46.3                          XY             (120,340)
+ U48.3          -61.468  1.5240 XY             (440,60)
+ U49.3          -43.434 54.3560 XY             (360,160)
+ U50.3          83.8200 58.4200 XY             (120,190)
+ U51.3          83.8200 55.8800 XY             (120,240)
+ U52.3          93.9800 40.6400 XY             (120,290)
+ U53.3          -26.670 63.5000 XY             (120,340)
+ U55.3          -13.716 50.2920 XY             (440,60)
+ U56.3          83.8200 68.5800 XY             (360,160)
+ U57.3          83.8200 66.0400 XY             (120,190)
+ U58.3          78.7400 40.6400 XY             (120,240)
+ U59.3          -28.194 46.4820 XY             (120,290)
+ U60.3          -14.478 51.3080 XY             (120,340)
+ U62.3          93.9800 68.5800 XY             (440,60)
+ U63.3          93.9800 66.0400 XY             (360,160)
+ U64.3          71.1200 40.6400 XY             (120,190)
+ U65.3          -26.924 32.5120 XY             (120,240)
+ U66.3           5.0800 22.8600 XY             (120,290)
+ U67.3           5.0800 31.2420 XY             (120,340)
+|------------------------------------------------------------------------------|
+|       Nets changed          :     230                                        |
+|       Components added      :      34                                        |
+|       Components deleted    :      34                                        |
+|       Slot property added   :     109                                        |
+|                                                                              |
+|   Total ECO changes reported:     407                                        |
+|------------------------------------------------------------------------------|

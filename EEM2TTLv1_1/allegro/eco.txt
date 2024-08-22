@@ -1,0 +1,24 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/EEM2TTL7/allegro/eem2ttl.brd                               |
+|                                                    Tue Aug 20 13:17:21 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U13                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE                
+ U20                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE                
+ U27                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE                
+ U34                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE                
+ U41                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE                
+ U48                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE                
+ U55                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE                
+ U62                 PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE                
+|------------------------------------------------------------------------------|
+|       Components deleted    :       8                                        |
+|                                                                              |
+|   Total ECO changes reported:       8                                        |
+|------------------------------------------------------------------------------|

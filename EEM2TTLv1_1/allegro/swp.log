@@ -1,0 +1,20 @@
+Loading netlist files ...
+Loading... C:\Jeonghyun\Lab\EEM2TTL7\allegro\pstchip.dat
+
+Loading... C:\Jeonghyun\Lab\EEM2TTL7\allegro\pstxprt.dat
+
+Loading... C:\Jeonghyun\Lab\EEM2TTL7\allegro\pstxnet.dat
+packaging the design view...Loading... C:\Jeonghyun\Lab\EEM2TTL7\allegro/funcview.dat
+Loading... C:\Jeonghyun\Lab\EEM2TTL7\allegro/compview.dat
+Loading... C:\Jeonghyun\Lab\EEM2TTL7\allegro/netview.dat
+Loading... C:\Jeonghyun\Lab\EEM2TTL7\allegro/pinview.dat
+packaging the design view...
+#53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+      #53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+      #53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+      #53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+      #53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+      #53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+      #53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+      #53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+      
