@@ -1,22 +1,22 @@
 # EEM2TTL
 <p align="center">
-    <img width="784" alt="image" src="/docs/images/EEM2TTL_3D.png">
+    <img width="600" alt="image" src="/docs/images/EEM2TTL_3D.png">
 </p>
 
 ## Overview
 <p align="center">
-    <img width="784" alt="image" src="/docs/images/CircuitDiagram.png">
+    <img width="400" alt="image" src="/docs/images/CircuitDiagram.png">
 </p>
 
 The EEM2TTL PCB board converts electrical signals between the LVDS interface and 3.3V TTL signals. It allows for selectable signal direction and optional 50-ohm termination. Power can be supplied either through the EEM interface or an external 12V power pin.
 
 ## Board Configuration
 <p align="center">
-    <img width="784" alt="image" src="/docs/images/CircuitIllustration.png">
+    <img width="400" alt="image" src="/docs/images/CircuitIllustration.png">
 </p>
 
 <p align="center">
-    <img width="784" alt="image" src="/docs/images/CircuitTable.png">
+    <img width="500" alt="image" src="/docs/images/CircuitTable.png">
 </p>
 
 ## Jumper Configuration
